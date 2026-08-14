@@ -1,0 +1,31 @@
+{
+  "id": "com.dude.cheapcharts.4ksale",
+  "version": "1.0.20260814",
+  "name": "iTunes 4K",
+  "description": "4K movies on the Apple TV / iTunes US store, and those recently upgraded to 4K. Data from CheapCharts. Last updated 2026-08-14 (396 cc-4k-movies, 422 cc-4k-upgraded).",
+  "logo": "https://images.metahub.space/logo/medium/tt0468569/img",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "cc-4k-movies",
+      "name": "Movies in 4K"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded",
+      "name": "Upgraded to 4K"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false
+  }
+}
