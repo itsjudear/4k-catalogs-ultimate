@@ -44,6 +44,14 @@ CATALOGS = [
         "sorts": ["turned4K"],
         "order": "api",
     },
+    {
+        # sort=releaseDate is a valid sort (invalid names return an empty list);
+        # it orders newest release date first.
+        "id": "cc-4k-new",
+        "name": "Just Released",
+        "sorts": ["releaseDate"],
+        "order": "api",
+    },
 ]
 
 # The API caps every response at 50 items and offers no offset parameter,

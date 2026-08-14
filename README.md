@@ -7,6 +7,7 @@ CheapCharts pages:
 |---|---|---|
 | **Movies in 4K** | `cc-4k-movies` | 4K movies, most popular first |
 | **Upgraded to 4K** | `cc-4k-upgraded` | 4K movies in order of how recently they were upgraded |
+| **Just Released** | `cc-4k-new` | 4K movies by release date, newest first |
 
 Each entry carries **title and artwork only** — poster, background and logo. No pricing.
 

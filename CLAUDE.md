@@ -18,6 +18,7 @@ build_catalog.py                       # the generator (stdlib only, Python 3.9+
 docs/manifest.json                     # addon manifest -> this URL goes into Nuvio
 docs/catalog/movie/cc-4k-movies.json   # catalog: "Movies in 4K"
 docs/catalog/movie/cc-4k-upgraded.json # catalog: "Upgraded to 4K"
+docs/catalog/movie/cc-4k-new.json      # catalog: "Just Released"
 .github/workflows/update-catalog.yml   # daily rebuild, 06:00 UTC
 ```
 
@@ -59,9 +60,11 @@ These were established by testing. They contradict the vendor docs in places.
 2. **It rate-limits**, despite the docs claiming "no rate limiting concerns". Six parallel
    workers triggered mass HTTP 429s. Sequential with `REQUEST_DELAY = 1.0` is stable;
    0.4s also worked but leaves no margin. Backoff on 429 is already implemented in `fetch()`.
-3. **`sort=turned4K` is a real sort parameter and is what powers the "Upgraded to 4K"
-   catalog.** Verified: an invented sort name (`bogusSortXYZ`) returns an empty result,
-   while `turned4K` returns a populated, distinctly-ordered list led by catalogue remasters.
+3. **Two sort values work but aren't in the docs' sort list: `turned4K` and `releaseDate`.**
+   They power the "Upgraded to 4K" and "Just Released" catalogs. Verified by probing:
+   invented sort names (`bogusSortXYZ`, `justReleased`, `newReleases`, `latest`) all return
+   an empty result, while these two return populated, distinctly-ordered lists. That empty
+   vs. populated response is a reliable way to test whether any other sort name is real.
 4. **The `turned4K` and `firstSeen4K` *fields* are documented but never returned.** So we
    get upgrade *ordering* but not upgrade *dates*. Don't waste time hunting for them.
 5. **`quality` accepts only `4k`, `hd4k`, `hd`, `sd`, `sdOnly`.** Anything else 500s.
