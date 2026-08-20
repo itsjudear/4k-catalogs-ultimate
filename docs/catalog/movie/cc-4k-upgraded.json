@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0038934",
-      "type": "movie",
-      "name": "She-Wolf of London (1946)",
-      "poster": "https://images.metahub.space/poster/medium/tt0038934/img",
-      "background": "https://images.metahub.space/background/medium/tt0038934/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0038934/img",
-      "posterShape": "poster",
-      "releaseInfo": "1946",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt1073105",
       "type": "movie",
       "name": "The Descent, Part 2",
@@ -1002,19 +989,6 @@
       ]
     },
     {
-      "id": "tt0106364",
-      "type": "movie",
-      "name": "Batman: Mask of the Phantasm",
-      "poster": "https://images.metahub.space/poster/medium/tt0106364/img",
-      "background": "https://images.metahub.space/background/medium/tt0106364/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0106364/img",
-      "posterShape": "poster",
-      "releaseInfo": "1993",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt0070034",
       "type": "movie",
       "name": "Enter the Dragon",
@@ -1177,6 +1151,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt4479380/img",
       "background": "https://images.metahub.space/background/medium/tt4479380/img",
       "logo": "https://images.metahub.space/logo/medium/tt4479380/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0293429",
+      "type": "movie",
+      "name": "Mortal Kombat (2021)",
+      "poster": "https://images.metahub.space/poster/medium/tt0293429/img",
+      "background": "https://images.metahub.space/background/medium/tt0293429/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0293429/img",
       "posterShape": "poster",
       "releaseInfo": "2021",
       "genres": [
@@ -3303,6 +3290,45 @@
       ]
     },
     {
+      "id": "tt1502407",
+      "type": "movie",
+      "name": "Halloween (2018)",
+      "poster": "https://images.metahub.space/poster/medium/tt1502407/img",
+      "background": "https://images.metahub.space/background/medium/tt1502407/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1502407/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt5273720",
+      "type": "movie",
+      "name": "All the Creatures Were Stirring",
+      "poster": "https://images.metahub.space/poster/medium/tt5273720/img",
+      "background": "https://images.metahub.space/background/medium/tt5273720/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5273720/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt7798634",
+      "type": "movie",
+      "name": "Ready or Not",
+      "poster": "https://images.metahub.space/poster/medium/tt7798634/img",
+      "background": "https://images.metahub.space/background/medium/tt7798634/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7798634/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
       "id": "tt0119822",
       "type": "movie",
       "name": "As Good As It Gets",
@@ -4564,6 +4590,32 @@
       ]
     },
     {
+      "id": "tt6208148",
+      "type": "movie",
+      "name": "Snow White (2025)",
+      "poster": "https://images.metahub.space/poster/medium/tt6208148/img",
+      "background": "https://images.metahub.space/background/medium/tt6208148/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6208148/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt18180926",
+      "type": "movie",
+      "name": "The New Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt18180926/img",
+      "background": "https://images.metahub.space/background/medium/tt18180926/img",
+      "logo": "https://images.metahub.space/logo/medium/tt18180926/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
       "id": "tt0087416",
       "type": "movie",
       "name": "Hockey Night",
@@ -4676,19 +4728,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0103772/img",
       "posterShape": "poster",
       "releaseInfo": "1992",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0066999",
-      "type": "movie",
-      "name": "Dirty Harry",
-      "poster": "https://images.metahub.space/poster/medium/tt0066999/img",
-      "background": "https://images.metahub.space/background/medium/tt0066999/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0066999/img",
-      "posterShape": "poster",
-      "releaseInfo": "2014",
       "genres": [
         "Thriller"
       ]
@@ -4819,19 +4858,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0110413/img",
       "posterShape": "poster",
       "releaseInfo": "1994",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0033870",
-      "type": "movie",
-      "name": "The Maltese Falcon (1941)",
-      "poster": "https://images.metahub.space/poster/medium/tt0033870/img",
-      "background": "https://images.metahub.space/background/medium/tt0033870/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0033870/img",
-      "posterShape": "poster",
-      "releaseInfo": "1941",
       "genres": [
         "Thriller"
       ]
@@ -5181,6 +5207,97 @@
       "poster": "https://images.metahub.space/poster/medium/tt5013984/img",
       "background": "https://images.metahub.space/background/medium/tt5013984/img",
       "logo": "https://images.metahub.space/logo/medium/tt5013984/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt11656220",
+      "type": "movie",
+      "name": "Midnight in the Switchgrass",
+      "poster": "https://images.metahub.space/poster/medium/tt11656220/img",
+      "background": "https://images.metahub.space/background/medium/tt11656220/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11656220/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5344054",
+      "type": "movie",
+      "name": "American Night",
+      "poster": "https://images.metahub.space/poster/medium/tt5344054/img",
+      "background": "https://images.metahub.space/background/medium/tt5344054/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5344054/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt11284502",
+      "type": "movie",
+      "name": "South of Heaven",
+      "poster": "https://images.metahub.space/poster/medium/tt11284502/img",
+      "background": "https://images.metahub.space/background/medium/tt11284502/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11284502/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7099280",
+      "type": "movie",
+      "name": "Needle in a Timestack",
+      "poster": "https://images.metahub.space/poster/medium/tt7099280/img",
+      "background": "https://images.metahub.space/background/medium/tt7099280/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7099280/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt13677962",
+      "type": "movie",
+      "name": "BLONDE. Purple",
+      "poster": "https://images.metahub.space/poster/medium/tt13677962/img",
+      "background": "https://images.metahub.space/background/medium/tt13677962/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13677962/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt15106860",
+      "type": "movie",
+      "name": "Pursuit",
+      "poster": "https://images.metahub.space/poster/medium/tt15106860/img",
+      "background": "https://images.metahub.space/background/medium/tt15106860/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15106860/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7740496",
+      "type": "movie",
+      "name": "Nightmare Alley (2021)",
+      "poster": "https://images.metahub.space/poster/medium/tt7740496/img",
+      "background": "https://images.metahub.space/background/medium/tt7740496/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7740496/img",
       "posterShape": "poster",
       "releaseInfo": "2021",
       "genres": [
