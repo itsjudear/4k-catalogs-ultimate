@@ -156,8 +156,6 @@ whatever shape it actually writes. Don't assume the above is right.
   price change. This is not a complete inventory of every 4K title on the store.
 - For *Upgraded to 4K*, only the first ~50 entries are in true global upgrade order; the
   rest are appended genre by genre because of the 50-item cap.
-- GitHub Pages sends no CORS headers. Irrelevant for Nuvio (a native app), but this addon
-  won't load in Stremio's **web** client. Desktop and mobile Stremio are fine.
 
 ---
 

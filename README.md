@@ -139,7 +139,5 @@ files are both generated from that list. For example, a highly-rated-only catalo
   metas require one.
 - **The endpoint rate-limits** despite its docs claiming otherwise. `REQUEST_DELAY` is set
   to 1 second with exponential backoff on 429.
-- **GitHub Pages sends no CORS headers.** Irrelevant for Nuvio (a native app), but this
-  addon won't work in Stremio's *web* client. Desktop and mobile Stremio are fine.
 - The build refuses to publish if it collects fewer than `MIN_TITLES` (150), so a bad API
   day leaves your existing catalog untouched rather than emptying it.
