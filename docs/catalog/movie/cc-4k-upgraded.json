@@ -1509,19 +1509,6 @@
       ]
     },
     {
-      "id": "tt21867434",
-      "type": "movie",
-      "name": "BlackBerry",
-      "poster": "https://images.metahub.space/poster/medium/tt21867434/img",
-      "background": "https://images.metahub.space/background/medium/tt21867434/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21867434/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt0057372",
       "type": "movie",
       "name": "The Nutty Professor (1963)",
@@ -1738,6 +1725,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0119360/img",
       "posterShape": "poster",
       "releaseInfo": "1997",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0042276",
+      "type": "movie",
+      "name": "Born Yesterday (1950)",
+      "poster": "https://images.metahub.space/poster/medium/tt0042276/img",
+      "background": "https://images.metahub.space/background/medium/tt0042276/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0042276/img",
+      "posterShape": "poster",
+      "releaseInfo": "1950",
       "genres": [
         "Comedy"
       ]
@@ -3329,6 +3329,19 @@
       ]
     },
     {
+      "id": "tt8851148",
+      "type": "movie",
+      "name": "The In Between",
+      "poster": "https://images.metahub.space/poster/medium/tt8851148/img",
+      "background": "https://images.metahub.space/background/medium/tt8851148/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8851148/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Romance"
+      ]
+    },
+    {
       "id": "tt0119822",
       "type": "movie",
       "name": "As Good As It Gets",
@@ -3433,12 +3446,38 @@
       ]
     },
     {
+      "id": "tt11951276",
+      "type": "movie",
+      "name": "The Other Zoey",
+      "poster": "https://images.metahub.space/poster/medium/tt11951276/img",
+      "background": "https://images.metahub.space/background/medium/tt11951276/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11951276/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Romance"
+      ]
+    },
+    {
       "id": "tt21608540",
       "type": "movie",
       "name": "Beyond the Lake",
       "poster": "https://images.metahub.space/poster/medium/tt21608540/img",
       "background": "https://images.metahub.space/background/medium/tt21608540/img",
       "logo": "https://images.metahub.space/logo/medium/tt21608540/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt13205458",
+      "type": "movie",
+      "name": "Float",
+      "poster": "https://images.metahub.space/poster/medium/tt13205458/img",
+      "background": "https://images.metahub.space/background/medium/tt13205458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13205458/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "genres": [
@@ -3478,6 +3517,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt21057800/img",
       "background": "https://images.metahub.space/background/medium/tt21057800/img",
       "logo": "https://images.metahub.space/logo/medium/tt21057800/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt24515124",
+      "type": "movie",
+      "name": "Winter Spring Summer or Fall",
+      "poster": "https://images.metahub.space/poster/medium/tt24515124/img",
+      "background": "https://images.metahub.space/background/medium/tt24515124/img",
+      "logo": "https://images.metahub.space/logo/medium/tt24515124/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "genres": [
@@ -4083,6 +4135,19 @@
       ]
     },
     {
+      "id": "tt7547410",
+      "type": "movie",
+      "name": "Dora and the Lost City of Gold",
+      "poster": "https://images.metahub.space/poster/medium/tt7547410/img",
+      "background": "https://images.metahub.space/background/medium/tt7547410/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7547410/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
       "id": "tt14260836",
       "type": "movie",
       "name": "Better Man",
@@ -4221,6 +4286,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt3272066/img",
       "posterShape": "poster",
       "releaseInfo": "2021",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt1935859",
+      "type": "movie",
+      "name": "Miss Peregrine's Home for Peculiar Children",
+      "poster": "https://images.metahub.space/poster/medium/tt1935859/img",
+      "background": "https://images.metahub.space/background/medium/tt1935859/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1935859/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4596,19 +4674,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt6208148/img",
       "background": "https://images.metahub.space/background/medium/tt6208148/img",
       "logo": "https://images.metahub.space/logo/medium/tt6208148/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt18180926",
-      "type": "movie",
-      "name": "The New Boy",
-      "poster": "https://images.metahub.space/poster/medium/tt18180926/img",
-      "background": "https://images.metahub.space/background/medium/tt18180926/img",
-      "logo": "https://images.metahub.space/logo/medium/tt18180926/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -5123,19 +5188,6 @@
       ]
     },
     {
-      "id": "tt5304996",
-      "type": "movie",
-      "name": "The Standoff At Sparrow Creek",
-      "poster": "https://images.metahub.space/poster/medium/tt5304996/img",
-      "background": "https://images.metahub.space/background/medium/tt5304996/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5304996/img",
-      "posterShape": "poster",
-      "releaseInfo": "2019",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt7349896",
       "type": "movie",
       "name": "Inherit the Viper",
@@ -5300,6 +5352,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt7740496/img",
       "posterShape": "poster",
       "releaseInfo": "2021",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt12359080",
+      "type": "movie",
+      "name": "Zero Contact",
+      "poster": "https://images.metahub.space/poster/medium/tt12359080/img",
+      "background": "https://images.metahub.space/background/medium/tt12359080/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12359080/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
       "genres": [
         "Thriller"
       ]
