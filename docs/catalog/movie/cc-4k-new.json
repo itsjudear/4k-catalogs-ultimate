@@ -313,19 +313,6 @@
       ]
     },
     {
-      "id": "tt35672862",
-      "type": "movie",
-      "name": "Hokum",
-      "poster": "https://images.metahub.space/poster/medium/tt35672862/img",
-      "background": "https://images.metahub.space/background/medium/tt35672862/img",
-      "logo": "https://images.metahub.space/logo/medium/tt35672862/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt29516222",
       "type": "movie",
       "name": "Deep Water (2026)",
@@ -1314,25 +1301,25 @@
       ]
     },
     {
+      "id": "tt11762114",
+      "type": "movie",
+      "name": "Mean Girls (2024)",
+      "poster": "https://images.metahub.space/poster/medium/tt11762114/img",
+      "background": "https://images.metahub.space/background/medium/tt11762114/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11762114/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt31157145",
       "type": "movie",
       "name": "Standout: The Ben Kjar Story",
       "poster": "https://images.metahub.space/poster/medium/tt31157145/img",
       "background": "https://images.metahub.space/background/medium/tt31157145/img",
       "logo": "https://images.metahub.space/logo/medium/tt31157145/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
-      "id": "tt28185868",
-      "type": "movie",
-      "name": "Kina & Yuk",
-      "poster": "https://images.metahub.space/poster/medium/tt28185868/img",
-      "background": "https://images.metahub.space/background/medium/tt28185868/img",
-      "logo": "https://images.metahub.space/logo/medium/tt28185868/img",
       "posterShape": "poster",
       "releaseInfo": "2026",
       "genres": [
@@ -1827,6 +1814,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt7455754/img",
       "background": "https://images.metahub.space/background/medium/tt7455754/img",
       "logo": "https://images.metahub.space/logo/medium/tt7455754/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt6435258",
+      "type": "movie",
+      "name": "Bethany Hamilton: Unstoppable",
+      "poster": "https://images.metahub.space/poster/medium/tt6435258/img",
+      "background": "https://images.metahub.space/background/medium/tt6435258/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6435258/img",
       "posterShape": "poster",
       "releaseInfo": "2019",
       "genres": [
@@ -2809,6 +2809,19 @@
       ]
     },
     {
+      "id": "tt10168670",
+      "type": "movie",
+      "name": "Bones and All",
+      "poster": "https://images.metahub.space/poster/medium/tt10168670/img",
+      "background": "https://images.metahub.space/background/medium/tt10168670/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10168670/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
       "id": "tt33350512",
       "type": "movie",
       "name": "100 Nights of Hero",
@@ -3134,38 +3147,12 @@
       ]
     },
     {
-      "id": "tt14883538",
-      "type": "movie",
-      "name": "Arco",
-      "poster": "https://images.metahub.space/poster/medium/tt14883538/img",
-      "background": "https://images.metahub.space/background/medium/tt14883538/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14883538/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt32881470",
       "type": "movie",
       "name": "Peas and Carrots",
       "poster": "https://images.metahub.space/poster/medium/tt32881470/img",
       "background": "https://images.metahub.space/background/medium/tt32881470/img",
       "logo": "https://images.metahub.space/logo/medium/tt32881470/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt29424284",
-      "type": "movie",
-      "name": "Runt",
-      "poster": "https://images.metahub.space/poster/medium/tt29424284/img",
-      "background": "https://images.metahub.space/background/medium/tt29424284/img",
-      "logo": "https://images.metahub.space/logo/medium/tt29424284/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -3571,6 +3558,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt1490017/img",
       "posterShape": "poster",
       "releaseInfo": "2014",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt1453405",
+      "type": "movie",
+      "name": "Monsters University",
+      "poster": "https://images.metahub.space/poster/medium/tt1453405/img",
+      "background": "https://images.metahub.space/background/medium/tt1453405/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1453405/img",
+      "posterShape": "poster",
+      "releaseInfo": "2013",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt1217209",
+      "type": "movie",
+      "name": "Brave",
+      "poster": "https://images.metahub.space/poster/medium/tt1217209/img",
+      "background": "https://images.metahub.space/background/medium/tt1217209/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1217209/img",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
       "genres": [
         "Kids & Family"
       ]
@@ -4817,19 +4830,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt11833670/img",
       "background": "https://images.metahub.space/background/medium/tt11833670/img",
       "logo": "https://images.metahub.space/logo/medium/tt11833670/img",
-      "posterShape": "poster",
-      "releaseInfo": "2021",
-      "genres": [
-        "Western"
-      ]
-    },
-    {
-      "id": "tt12731980",
-      "type": "movie",
-      "name": "Old Henry",
-      "poster": "https://images.metahub.space/poster/medium/tt12731980/img",
-      "background": "https://images.metahub.space/background/medium/tt12731980/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12731980/img",
       "posterShape": "poster",
       "releaseInfo": "2021",
       "genres": [
