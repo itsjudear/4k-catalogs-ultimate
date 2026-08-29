@@ -3654,19 +3654,6 @@
       ]
     },
     {
-      "id": "tt0398286",
-      "type": "movie",
-      "name": "Tangled",
-      "poster": "https://images.metahub.space/poster/medium/tt0398286/img",
-      "background": "https://images.metahub.space/background/medium/tt0398286/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0398286/img",
-      "posterShape": "poster",
-      "releaseInfo": "2010",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt0295297",
       "type": "movie",
       "name": "Harry Potter and the Chamber of Secrets",
@@ -3959,6 +3946,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt29623480/img",
       "background": "https://images.metahub.space/background/medium/tt29623480/img",
       "logo": "https://images.metahub.space/logo/medium/tt29623480/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://images.metahub.space/poster/medium/tt13622970/img",
+      "background": "https://images.metahub.space/background/medium/tt13622970/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13622970/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "genres": [
@@ -4286,6 +4286,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt3665498/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt9373688",
+      "type": "movie",
+      "name": "Settlers",
+      "poster": "https://images.metahub.space/poster/medium/tt9373688/img",
+      "background": "https://images.metahub.space/background/medium/tt9373688/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9373688/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
