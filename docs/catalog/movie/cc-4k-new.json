@@ -274,19 +274,6 @@
       ]
     },
     {
-      "id": "tt28305079",
-      "type": "movie",
-      "name": "Cotton Candy Bubble Gum",
-      "poster": "https://images.metahub.space/poster/medium/tt28305079/img",
-      "background": "https://images.metahub.space/background/medium/tt28305079/img",
-      "logo": "https://images.metahub.space/logo/medium/tt28305079/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt39018643",
       "type": "movie",
       "name": "Billie Eilish: Hit Me Hard and Soft - The Tour",
@@ -1301,19 +1288,6 @@
       ]
     },
     {
-      "id": "tt19364132",
-      "type": "movie",
-      "name": "Drugstore June",
-      "poster": "https://images.metahub.space/poster/medium/tt19364132/img",
-      "background": "https://images.metahub.space/background/medium/tt19364132/img",
-      "logo": "https://images.metahub.space/logo/medium/tt19364132/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt15432316",
       "type": "movie",
       "name": "Love Reconsidered",
@@ -1372,6 +1346,32 @@
       "poster": "https://images.metahub.space/poster/medium/tt14487262/img",
       "background": "https://images.metahub.space/background/medium/tt14487262/img",
       "logo": "https://images.metahub.space/logo/medium/tt14487262/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt20195918",
+      "type": "movie",
+      "name": "Blow Up My Life",
+      "poster": "https://images.metahub.space/poster/medium/tt20195918/img",
+      "background": "https://images.metahub.space/background/medium/tt20195918/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20195918/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt13267436",
+      "type": "movie",
+      "name": "Little Jar",
+      "poster": "https://images.metahub.space/poster/medium/tt13267436/img",
+      "background": "https://images.metahub.space/background/medium/tt13267436/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13267436/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
       "genres": [
@@ -2386,19 +2386,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt13293212/img",
       "background": "https://images.metahub.space/background/medium/tt13293212/img",
       "logo": "https://images.metahub.space/logo/medium/tt13293212/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt15836468",
-      "type": "movie",
-      "name": "Rare Objects",
-      "poster": "https://images.metahub.space/poster/medium/tt15836468/img",
-      "background": "https://images.metahub.space/background/medium/tt15836468/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15836468/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
       "genres": [
@@ -4538,19 +4525,6 @@
       ]
     },
     {
-      "id": "tt11908172",
-      "type": "movie",
-      "name": "The Kill Room",
-      "poster": "https://images.metahub.space/poster/medium/tt11908172/img",
-      "background": "https://images.metahub.space/background/medium/tt11908172/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11908172/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt21991654",
       "type": "movie",
       "name": "Sympathy for the Devil",
@@ -4741,6 +4715,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt5774060/img",
       "posterShape": "poster",
       "releaseInfo": "2020",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5117372",
+      "type": "movie",
+      "name": "Coyote Lake",
+      "poster": "https://images.metahub.space/poster/medium/tt5117372/img",
+      "background": "https://images.metahub.space/background/medium/tt5117372/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5117372/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
       "genres": [
         "Thriller"
       ]
