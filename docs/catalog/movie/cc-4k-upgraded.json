@@ -417,19 +417,6 @@
       ]
     },
     {
-      "id": "tt12794046",
-      "type": "movie",
-      "name": "Batman: Death in the Family (Non-Interactive) (DC Showcase Shorts Collection)",
-      "poster": "https://images.metahub.space/poster/medium/tt12794046/img",
-      "background": "https://images.metahub.space/background/medium/tt12794046/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12794046/img",
-      "posterShape": "poster",
-      "releaseInfo": "2020",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt12444934",
       "type": "movie",
       "name": "Devil's Workshop",
@@ -479,6 +466,19 @@
       "releaseInfo": "2023",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0230600",
+      "type": "movie",
+      "name": "The Others",
+      "poster": "https://images.metahub.space/poster/medium/tt0230600/img",
+      "background": "https://images.metahub.space/background/medium/tt0230600/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0230600/img",
+      "posterShape": "poster",
+      "releaseInfo": "2001",
+      "genres": [
+        "Horror"
       ]
     },
     {
@@ -586,19 +586,6 @@
       ]
     },
     {
-      "id": "tt12037194",
-      "type": "movie",
-      "name": "Furiosa: A Mad Max Saga: Black & Chrome",
-      "poster": "https://images.metahub.space/poster/medium/tt12037194/img",
-      "background": "https://images.metahub.space/background/medium/tt12037194/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12037194/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt22866050",
       "type": "movie",
       "name": "Dandelion",
@@ -635,6 +622,32 @@
       "releaseInfo": "2007",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0443706",
+      "type": "movie",
+      "name": "Zodiac",
+      "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
+      "background": "https://images.metahub.space/background/medium/tt0443706/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0443706/img",
+      "posterShape": "poster",
+      "releaseInfo": "2007",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt10611992",
+      "type": "movie",
+      "name": "Cyst",
+      "poster": "https://images.metahub.space/poster/medium/tt10611992/img",
+      "background": "https://images.metahub.space/background/medium/tt10611992/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10611992/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Horror"
       ]
     },
     {
@@ -846,19 +859,6 @@
       ]
     },
     {
-      "id": "tt0434409",
-      "type": "movie",
-      "name": "V for Vendetta",
-      "poster": "https://images.metahub.space/poster/medium/tt0434409/img",
-      "background": "https://images.metahub.space/background/medium/tt0434409/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0434409/img",
-      "posterShape": "poster",
-      "releaseInfo": "2006",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt2527338",
       "type": "movie",
       "name": "Star Wars: The Rise of Skywalker",
@@ -1054,58 +1054,6 @@
       ]
     },
     {
-      "id": "tt0926084",
-      "type": "movie",
-      "name": "Harry Potter and the Deathly Hallows, Part 1",
-      "poster": "https://images.metahub.space/poster/medium/tt0926084/img",
-      "background": "https://images.metahub.space/background/medium/tt0926084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0926084/img",
-      "posterShape": "poster",
-      "releaseInfo": "2010",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0373889",
-      "type": "movie",
-      "name": "Harry Potter and the Order of the Phoenix",
-      "poster": "https://images.metahub.space/poster/medium/tt0373889/img",
-      "background": "https://images.metahub.space/background/medium/tt0373889/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0373889/img",
-      "posterShape": "poster",
-      "releaseInfo": "2007",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0304141",
-      "type": "movie",
-      "name": "Harry Potter and the Prisoner of Azkaban",
-      "poster": "https://images.metahub.space/poster/medium/tt0304141/img",
-      "background": "https://images.metahub.space/background/medium/tt0304141/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0304141/img",
-      "posterShape": "poster",
-      "releaseInfo": "2004",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt4123430",
-      "type": "movie",
-      "name": "Fantastic Beasts: The Crimes of Grindelwald",
-      "poster": "https://images.metahub.space/poster/medium/tt4123430/img",
-      "background": "https://images.metahub.space/background/medium/tt4123430/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4123430/img",
-      "posterShape": "poster",
-      "releaseInfo": "2018",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt4532826",
       "type": "movie",
       "name": "Robin Hood (2018)",
@@ -1192,6 +1140,110 @@
       "logo": "https://images.metahub.space/logo/medium/tt1583421/img",
       "posterShape": "poster",
       "releaseInfo": "2013",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt1951264",
+      "type": "movie",
+      "name": "The Hunger Games: Catching Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt1951264/img",
+      "background": "https://images.metahub.space/background/medium/tt1951264/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1951264/img",
+      "posterShape": "poster",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt2404233",
+      "type": "movie",
+      "name": "Gods of Egypt",
+      "poster": "https://images.metahub.space/poster/medium/tt2404233/img",
+      "background": "https://images.metahub.space/background/medium/tt2404233/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2404233/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt1320253",
+      "type": "movie",
+      "name": "The Expendables",
+      "poster": "https://images.metahub.space/poster/medium/tt1320253/img",
+      "background": "https://images.metahub.space/background/medium/tt1320253/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1320253/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt1764651",
+      "type": "movie",
+      "name": "The Expendables 2",
+      "poster": "https://images.metahub.space/poster/medium/tt1764651/img",
+      "background": "https://images.metahub.space/background/medium/tt1764651/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1764651/img",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt2333784",
+      "type": "movie",
+      "name": "The Expendables 3",
+      "poster": "https://images.metahub.space/poster/medium/tt2333784/img",
+      "background": "https://images.metahub.space/background/medium/tt2333784/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2333784/img",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0816462",
+      "type": "movie",
+      "name": "Conan the Barbarian (2011)",
+      "poster": "https://images.metahub.space/poster/medium/tt0816462/img",
+      "background": "https://images.metahub.space/background/medium/tt0816462/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0816462/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt1528100",
+      "type": "movie",
+      "name": "Exodus: Gods and Kings",
+      "poster": "https://images.metahub.space/poster/medium/tt1528100/img",
+      "background": "https://images.metahub.space/background/medium/tt1528100/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1528100/img",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt2802144",
+      "type": "movie",
+      "name": "Kingsman: The Secret Service",
+      "poster": "https://images.metahub.space/poster/medium/tt2802144/img",
+      "background": "https://images.metahub.space/background/medium/tt2802144/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2802144/img",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
       "genres": [
         "Action & Adventure"
       ]
@@ -2588,19 +2640,6 @@
       ]
     },
     {
-      "id": "tt10611992",
-      "type": "movie",
-      "name": "Cyst",
-      "poster": "https://images.metahub.space/poster/medium/tt10611992/img",
-      "background": "https://images.metahub.space/background/medium/tt10611992/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10611992/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt27619382",
       "type": "movie",
       "name": "It\u2019s a Wonderful Knife",
@@ -3108,19 +3147,6 @@
       ]
     },
     {
-      "id": "tt22050990",
-      "type": "movie",
-      "name": "Dead Teenagers",
-      "poster": "https://images.metahub.space/poster/medium/tt22050990/img",
-      "background": "https://images.metahub.space/background/medium/tt22050990/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22050990/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt0025316",
       "type": "movie",
       "name": "It Happened One Night",
@@ -3168,19 +3194,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt2322441/img",
       "posterShape": "poster",
       "releaseInfo": "2015",
-      "genres": [
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt2674426",
-      "type": "movie",
-      "name": "Me Before You",
-      "poster": "https://images.metahub.space/poster/medium/tt2674426/img",
-      "background": "https://images.metahub.space/background/medium/tt2674426/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2674426/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
       "genres": [
         "Romance"
       ]
@@ -3524,58 +3537,6 @@
       ]
     },
     {
-      "id": "tt0295297",
-      "type": "movie",
-      "name": "Harry Potter and the Chamber of Secrets",
-      "poster": "https://images.metahub.space/poster/medium/tt0295297/img",
-      "background": "https://images.metahub.space/background/medium/tt0295297/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0295297/img",
-      "posterShape": "poster",
-      "releaseInfo": "2002",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0417741",
-      "type": "movie",
-      "name": "Harry Potter and the Half-Blood Prince",
-      "poster": "https://images.metahub.space/poster/medium/tt0417741/img",
-      "background": "https://images.metahub.space/background/medium/tt0417741/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0417741/img",
-      "posterShape": "poster",
-      "releaseInfo": "2009",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0330373",
-      "type": "movie",
-      "name": "Harry Potter and the Goblet of Fire",
-      "poster": "https://images.metahub.space/poster/medium/tt0330373/img",
-      "background": "https://images.metahub.space/background/medium/tt0330373/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0330373/img",
-      "posterShape": "poster",
-      "releaseInfo": "2005",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0241527",
-      "type": "movie",
-      "name": "Harry Potter and the Sorcerer's Stone",
-      "poster": "https://images.metahub.space/poster/medium/tt0241527/img",
-      "background": "https://images.metahub.space/background/medium/tt0241527/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0241527/img",
-      "posterShape": "poster",
-      "releaseInfo": "2001",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt1646971",
       "type": "movie",
       "name": "How to Train Your Dragon 2",
@@ -3862,32 +3823,6 @@
       ]
     },
     {
-      "id": "tt4123432",
-      "type": "movie",
-      "name": "Fantastic Beasts: The Secrets of Dumbledore",
-      "poster": "https://images.metahub.space/poster/medium/tt4123432/img",
-      "background": "https://images.metahub.space/background/medium/tt4123432/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4123432/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt10838180",
-      "type": "movie",
-      "name": "The Matrix Resurrections",
-      "poster": "https://images.metahub.space/poster/medium/tt10838180/img",
-      "background": "https://images.metahub.space/background/medium/tt10838180/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10838180/img",
-      "posterShape": "poster",
-      "releaseInfo": "2021",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt0084726",
       "type": "movie",
       "name": "Star Trek II: The Wrath of Khan",
@@ -4031,19 +3966,6 @@
       ]
     },
     {
-      "id": "tt1201607",
-      "type": "movie",
-      "name": "Harry Potter and the Deathly Hallows, Part 2",
-      "poster": "https://images.metahub.space/poster/medium/tt1201607/img",
-      "background": "https://images.metahub.space/background/medium/tt1201607/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1201607/img",
-      "posterShape": "poster",
-      "releaseInfo": "2011",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt0078748",
       "type": "movie",
       "name": "Alien",
@@ -4052,19 +3974,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0078748/img",
       "posterShape": "poster",
       "releaseInfo": "1979",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt0242653",
-      "type": "movie",
-      "name": "The Matrix Revolutions",
-      "poster": "https://images.metahub.space/poster/medium/tt0242653/img",
-      "background": "https://images.metahub.space/background/medium/tt0242653/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0242653/img",
-      "posterShape": "poster",
-      "releaseInfo": "2003",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4278,19 +4187,6 @@
       ]
     },
     {
-      "id": "tt12299608",
-      "type": "movie",
-      "name": "Mickey 17",
-      "poster": "https://images.metahub.space/poster/medium/tt12299608/img",
-      "background": "https://images.metahub.space/background/medium/tt12299608/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12299608/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt9603060",
       "type": "movie",
       "name": "Star Trek: Section 31",
@@ -4299,6 +4195,58 @@
       "logo": "https://images.metahub.space/logo/medium/tt9603060/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt18180926",
+      "type": "movie",
+      "name": "The New Boy",
+      "poster": "https://images.metahub.space/poster/medium/tt18180926/img",
+      "background": "https://images.metahub.space/background/medium/tt18180926/img",
+      "logo": "https://images.metahub.space/logo/medium/tt18180926/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt19409102",
+      "type": "movie",
+      "name": "Witchy Ways",
+      "poster": "https://images.metahub.space/poster/medium/tt19409102/img",
+      "background": "https://images.metahub.space/background/medium/tt19409102/img",
+      "logo": "https://images.metahub.space/logo/medium/tt19409102/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt30254719",
+      "type": "movie",
+      "name": "Omniscient Reader: The Prophecy",
+      "poster": "https://images.metahub.space/poster/medium/tt30254719/img",
+      "background": "https://images.metahub.space/background/medium/tt30254719/img",
+      "logo": "https://images.metahub.space/logo/medium/tt30254719/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt14264694",
+      "type": "movie",
+      "name": "Worldbreaker",
+      "poster": "https://images.metahub.space/poster/medium/tt14264694/img",
+      "background": "https://images.metahub.space/background/medium/tt14264694/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14264694/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4366,19 +4314,6 @@
       "releaseInfo": "2024",
       "genres": [
         "Sports"
-      ]
-    },
-    {
-      "id": "tt0443706",
-      "type": "movie",
-      "name": "Zodiac",
-      "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
-      "background": "https://images.metahub.space/background/medium/tt0443706/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0443706/img",
-      "posterShape": "poster",
-      "releaseInfo": "2007",
-      "genres": [
-        "Thriller"
       ]
     },
     {

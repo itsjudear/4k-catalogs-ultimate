@@ -508,19 +508,6 @@
       ]
     },
     {
-      "id": "tt27200708",
-      "type": "movie",
-      "name": "Mother Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt27200708/img",
-      "background": "https://images.metahub.space/background/medium/tt27200708/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27200708/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt13570066",
       "type": "movie",
       "name": "Desert Warrior",
@@ -690,6 +677,19 @@
       ]
     },
     {
+      "id": "tt33244668",
+      "type": "movie",
+      "name": "Anaconda (2025)",
+      "poster": "https://images.metahub.space/poster/medium/tt33244668/img",
+      "background": "https://images.metahub.space/background/medium/tt33244668/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33244668/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt1757678",
       "type": "movie",
       "name": "Avatar: Fire and Ash",
@@ -852,19 +852,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt18312380/img",
       "background": "https://images.metahub.space/background/medium/tt18312380/img",
       "logo": "https://images.metahub.space/logo/medium/tt18312380/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt32212611",
-      "type": "movie",
-      "name": "Under Fire",
-      "poster": "https://images.metahub.space/poster/medium/tt32212611/img",
-      "background": "https://images.metahub.space/background/medium/tt32212611/img",
-      "logo": "https://images.metahub.space/logo/medium/tt32212611/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -1314,19 +1301,6 @@
       ]
     },
     {
-      "id": "tt1896747",
-      "type": "movie",
-      "name": "Fly Me to the Moon",
-      "poster": "https://images.metahub.space/poster/medium/tt1896747/img",
-      "background": "https://images.metahub.space/background/medium/tt1896747/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1896747/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt21284442",
       "type": "movie",
       "name": "Late Bloomers (2024)",
@@ -1361,6 +1335,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt15432316/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt24429218",
+      "type": "movie",
+      "name": "Genie (2023)",
+      "poster": "https://images.metahub.space/poster/medium/tt24429218/img",
+      "background": "https://images.metahub.space/background/medium/tt24429218/img",
+      "logo": "https://images.metahub.space/logo/medium/tt24429218/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
       "genres": [
         "Comedy"
       ]
@@ -1626,19 +1613,6 @@
       ]
     },
     {
-      "id": "tt19853258",
-      "type": "movie",
-      "name": "STILL: A Michael J. Fox Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt19853258/img",
-      "background": "https://images.metahub.space/background/medium/tt19853258/img",
-      "logo": "https://images.metahub.space/logo/medium/tt19853258/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
       "id": "tt14071694",
       "type": "movie",
       "name": "Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb",
@@ -1896,6 +1870,32 @@
       "releaseInfo": "2020",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt11595776",
+      "type": "movie",
+      "name": "Undone",
+      "poster": "https://images.metahub.space/poster/medium/tt11595776/img",
+      "background": "https://images.metahub.space/background/medium/tt11595776/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11595776/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27200708",
+      "type": "movie",
+      "name": "Mother Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt27200708/img",
+      "background": "https://images.metahub.space/background/medium/tt27200708/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27200708/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -2401,6 +2401,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt17633634/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt20420628",
+      "type": "movie",
+      "name": "Freud\u2019s Last Session",
+      "poster": "https://images.metahub.space/poster/medium/tt20420628/img",
+      "background": "https://images.metahub.space/background/medium/tt20420628/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20420628/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
       "genres": [
         "Drama"
       ]
@@ -3095,19 +3108,6 @@
       ]
     },
     {
-      "id": "tt2674426",
-      "type": "movie",
-      "name": "Me Before You",
-      "poster": "https://images.metahub.space/poster/medium/tt2674426/img",
-      "background": "https://images.metahub.space/background/medium/tt2674426/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2674426/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
-      "genres": [
-        "Romance"
-      ]
-    },
-    {
       "id": "tt2322441",
       "type": "movie",
       "name": "Fifty Shades of Grey",
@@ -3472,19 +3472,6 @@
       ]
     },
     {
-      "id": "tt0417741",
-      "type": "movie",
-      "name": "Harry Potter and the Half-Blood Prince",
-      "poster": "https://images.metahub.space/poster/medium/tt0417741/img",
-      "background": "https://images.metahub.space/background/medium/tt0417741/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0417741/img",
-      "posterShape": "poster",
-      "releaseInfo": "2009",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt0317219",
       "type": "movie",
       "name": "Cars",
@@ -3493,45 +3480,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0317219/img",
       "posterShape": "poster",
       "releaseInfo": "2006",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0330373",
-      "type": "movie",
-      "name": "Harry Potter and the Goblet of Fire",
-      "poster": "https://images.metahub.space/poster/medium/tt0330373/img",
-      "background": "https://images.metahub.space/background/medium/tt0330373/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0330373/img",
-      "posterShape": "poster",
-      "releaseInfo": "2005",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0295297",
-      "type": "movie",
-      "name": "Harry Potter and the Chamber of Secrets",
-      "poster": "https://images.metahub.space/poster/medium/tt0295297/img",
-      "background": "https://images.metahub.space/background/medium/tt0295297/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0295297/img",
-      "posterShape": "poster",
-      "releaseInfo": "2002",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0241527",
-      "type": "movie",
-      "name": "Harry Potter and the Sorcerer's Stone",
-      "poster": "https://images.metahub.space/poster/medium/tt0241527/img",
-      "background": "https://images.metahub.space/background/medium/tt0241527/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0241527/img",
-      "posterShape": "poster",
-      "releaseInfo": "2001",
       "genres": [
         "Kids & Family"
       ]
@@ -3693,19 +3641,6 @@
       ]
     },
     {
-      "id": "tt12299608",
-      "type": "movie",
-      "name": "Mickey 17",
-      "poster": "https://images.metahub.space/poster/medium/tt12299608/img",
-      "background": "https://images.metahub.space/background/medium/tt12299608/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12299608/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt9603060",
       "type": "movie",
       "name": "Star Trek: Section 31",
@@ -3836,19 +3771,6 @@
       ]
     },
     {
-      "id": "tt4123432",
-      "type": "movie",
-      "name": "Fantastic Beasts: The Secrets of Dumbledore",
-      "poster": "https://images.metahub.space/poster/medium/tt4123432/img",
-      "background": "https://images.metahub.space/background/medium/tt4123432/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4123432/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt7657566",
       "type": "movie",
       "name": "Death on the Nile (2022)",
@@ -3857,19 +3779,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt7657566/img",
       "posterShape": "poster",
       "releaseInfo": "2022",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt10838180",
-      "type": "movie",
-      "name": "The Matrix Resurrections",
-      "poster": "https://images.metahub.space/poster/medium/tt10838180/img",
-      "background": "https://images.metahub.space/background/medium/tt10838180/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10838180/img",
-      "posterShape": "poster",
-      "releaseInfo": "2021",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -3992,19 +3901,6 @@
       ]
     },
     {
-      "id": "tt1201607",
-      "type": "movie",
-      "name": "Harry Potter and the Deathly Hallows, Part 2",
-      "poster": "https://images.metahub.space/poster/medium/tt1201607/img",
-      "background": "https://images.metahub.space/background/medium/tt1201607/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1201607/img",
-      "posterShape": "poster",
-      "releaseInfo": "2011",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt0121766",
       "type": "movie",
       "name": "Star Wars: Revenge of the Sith",
@@ -4013,19 +3909,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0121766/img",
       "posterShape": "poster",
       "releaseInfo": "2005",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt0242653",
-      "type": "movie",
-      "name": "The Matrix Revolutions",
-      "poster": "https://images.metahub.space/poster/medium/tt0242653/img",
-      "background": "https://images.metahub.space/background/medium/tt0242653/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0242653/img",
-      "posterShape": "poster",
-      "releaseInfo": "2003",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4104,6 +3987,71 @@
       "logo": "https://images.metahub.space/logo/medium/tt0116629/img",
       "posterShape": "poster",
       "releaseInfo": "1996",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0113568",
+      "type": "movie",
+      "name": "Ghost In the Shell (25th Anniversary Edition)",
+      "poster": "https://images.metahub.space/poster/medium/tt0113568/img",
+      "background": "https://images.metahub.space/background/medium/tt0113568/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0113568/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0111280",
+      "type": "movie",
+      "name": "Star Trek VII: Generations",
+      "poster": "https://images.metahub.space/poster/medium/tt0111280/img",
+      "background": "https://images.metahub.space/background/medium/tt0111280/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0111280/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0102975",
+      "type": "movie",
+      "name": "Star Trek VI: The Undiscovered Country",
+      "poster": "https://images.metahub.space/poster/medium/tt0102975/img",
+      "background": "https://images.metahub.space/background/medium/tt0102975/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0102975/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0098382",
+      "type": "movie",
+      "name": "Star Trek V: The Final Frontier",
+      "poster": "https://images.metahub.space/poster/medium/tt0098382/img",
+      "background": "https://images.metahub.space/background/medium/tt0098382/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098382/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0092007",
+      "type": "movie",
+      "name": "Star Trek IV: The Voyage Home",
+      "poster": "https://images.metahub.space/poster/medium/tt0092007/img",
+      "background": "https://images.metahub.space/background/medium/tt0092007/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092007/img",
+      "posterShape": "poster",
+      "releaseInfo": "1986",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4637,19 +4585,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt14073690/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt17495872",
-      "type": "movie",
-      "name": "Ashgrove",
-      "poster": "https://images.metahub.space/poster/medium/tt17495872/img",
-      "background": "https://images.metahub.space/background/medium/tt17495872/img",
-      "logo": "https://images.metahub.space/logo/medium/tt17495872/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
       "genres": [
         "Thriller"
       ]
