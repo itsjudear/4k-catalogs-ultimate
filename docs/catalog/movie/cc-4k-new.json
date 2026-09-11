@@ -300,19 +300,6 @@
       ]
     },
     {
-      "id": "tt34706535",
-      "type": "movie",
-      "name": "Reckless",
-      "poster": "https://images.metahub.space/poster/medium/tt34706535/img",
-      "background": "https://images.metahub.space/background/medium/tt34706535/img",
-      "logo": "https://images.metahub.space/logo/medium/tt34706535/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt33296751",
       "type": "movie",
       "name": "Tuner",
@@ -362,19 +349,6 @@
       "releaseInfo": "2026",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt27681354",
-      "type": "movie",
-      "name": "In the Grey",
-      "poster": "https://images.metahub.space/poster/medium/tt27681354/img",
-      "background": "https://images.metahub.space/background/medium/tt27681354/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action & Adventure"
       ]
     },
     {
@@ -505,6 +479,19 @@
       "releaseInfo": "2026",
       "genres": [
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt27200708",
+      "type": "movie",
+      "name": "Mother Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt27200708/img",
+      "background": "https://images.metahub.space/background/medium/tt27200708/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27200708/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -852,6 +839,58 @@
       "poster": "https://images.metahub.space/poster/medium/tt18312380/img",
       "background": "https://images.metahub.space/background/medium/tt18312380/img",
       "logo": "https://images.metahub.space/logo/medium/tt18312380/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt32212611",
+      "type": "movie",
+      "name": "Under Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt32212611/img",
+      "background": "https://images.metahub.space/background/medium/tt32212611/img",
+      "logo": "https://images.metahub.space/logo/medium/tt32212611/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt13540044",
+      "type": "movie",
+      "name": "Hierarchy",
+      "poster": "https://images.metahub.space/poster/medium/tt13540044/img",
+      "background": "https://images.metahub.space/background/medium/tt13540044/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13540044/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt30459064",
+      "type": "movie",
+      "name": "Trouble Man",
+      "poster": "https://images.metahub.space/poster/medium/tt30459064/img",
+      "background": "https://images.metahub.space/background/medium/tt30459064/img",
+      "logo": "https://images.metahub.space/logo/medium/tt30459064/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt29711811",
+      "type": "movie",
+      "name": "The Omro Heist",
+      "poster": "https://images.metahub.space/poster/medium/tt29711811/img",
+      "background": "https://images.metahub.space/background/medium/tt29711811/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29711811/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -1883,19 +1922,6 @@
       "releaseInfo": "2020",
       "genres": [
         "Documentary"
-      ]
-    },
-    {
-      "id": "tt27200708",
-      "type": "movie",
-      "name": "Mother Mary",
-      "poster": "https://images.metahub.space/poster/medium/tt27200708/img",
-      "background": "https://images.metahub.space/background/medium/tt27200708/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27200708/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -2952,19 +2978,6 @@
       ]
     },
     {
-      "id": "tt14939308",
-      "type": "movie",
-      "name": "Allegoria",
-      "poster": "https://images.metahub.space/poster/medium/tt14939308/img",
-      "background": "https://images.metahub.space/background/medium/tt14939308/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14939308/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt33071426",
       "type": "movie",
       "name": "The Drama",
@@ -3602,19 +3615,6 @@
       ]
     },
     {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Supergirl (2026)",
-      "poster": "https://images.metahub.space/poster/medium/tt8814476/img",
-      "background": "https://images.metahub.space/background/medium/tt8814476/img",
-      "logo": "https://images.metahub.space/logo/medium/tt8814476/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt30254719",
       "type": "movie",
       "name": "Omniscient Reader: The Prophecy",
@@ -4057,6 +4057,19 @@
       ]
     },
     {
+      "id": "tt0088170",
+      "type": "movie",
+      "name": "Star Trek III: The Search for Spock",
+      "poster": "https://images.metahub.space/poster/medium/tt0088170/img",
+      "background": "https://images.metahub.space/background/medium/tt0088170/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088170/img",
+      "posterShape": "poster",
+      "releaseInfo": "1984",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
       "id": "tt32261253",
       "type": "movie",
       "name": "Running Back Relentless",
@@ -4226,6 +4239,19 @@
       ]
     },
     {
+      "id": "tt4712810",
+      "type": "movie",
+      "name": "Now You See Me, Now You Don't",
+      "poster": "https://images.metahub.space/poster/medium/tt4712810/img",
+      "background": "https://images.metahub.space/background/medium/tt4712810/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4712810/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt6902560",
       "type": "movie",
       "name": "Violent Ends",
@@ -4271,6 +4297,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt28628125/img",
       "background": "https://images.metahub.space/background/medium/tt28628125/img",
       "logo": "https://images.metahub.space/logo/medium/tt28628125/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt17676734",
+      "type": "movie",
+      "name": "Americana",
+      "poster": "https://images.metahub.space/poster/medium/tt17676734/img",
+      "background": "https://images.metahub.space/background/medium/tt17676734/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17676734/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -4377,6 +4416,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt10078772/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt30057084",
+      "type": "movie",
+      "name": "Babygirl",
+      "poster": "https://images.metahub.space/poster/medium/tt30057084/img",
+      "background": "https://images.metahub.space/background/medium/tt30057084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt30057084/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
       "genres": [
         "Thriller"
       ]
@@ -4518,71 +4570,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt20419974/img",
       "background": "https://images.metahub.space/background/medium/tt20419974/img",
       "logo": "https://images.metahub.space/logo/medium/tt20419974/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt16987390",
-      "type": "movie",
-      "name": "Gassed Up",
-      "poster": "https://images.metahub.space/poster/medium/tt16987390/img",
-      "background": "https://images.metahub.space/background/medium/tt16987390/img",
-      "logo": "https://images.metahub.space/logo/medium/tt16987390/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt21991654",
-      "type": "movie",
-      "name": "Sympathy for the Devil",
-      "poster": "https://images.metahub.space/poster/medium/tt21991654/img",
-      "background": "https://images.metahub.space/background/medium/tt21991654/img",
-      "logo": "https://images.metahub.space/logo/medium/tt21991654/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt11136638",
-      "type": "movie",
-      "name": "Half Sisters",
-      "poster": "https://images.metahub.space/poster/medium/tt11136638/img",
-      "background": "https://images.metahub.space/background/medium/tt11136638/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11136638/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt18550182",
-      "type": "movie",
-      "name": "R.M.N.",
-      "poster": "https://images.metahub.space/poster/medium/tt18550182/img",
-      "background": "https://images.metahub.space/background/medium/tt18550182/img",
-      "logo": "https://images.metahub.space/logo/medium/tt18550182/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt14073690",
-      "type": "movie",
-      "name": "How To Rob",
-      "poster": "https://images.metahub.space/poster/medium/tt14073690/img",
-      "background": "https://images.metahub.space/background/medium/tt14073690/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14073690/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
       "genres": [
