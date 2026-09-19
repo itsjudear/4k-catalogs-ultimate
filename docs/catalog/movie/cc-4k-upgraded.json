@@ -183,6 +183,19 @@
       ]
     },
     {
+      "id": "tt1855199",
+      "type": "movie",
+      "name": "End of Watch",
+      "poster": "https://images.metahub.space/poster/medium/tt1855199/img",
+      "background": "https://images.metahub.space/background/medium/tt1855199/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1855199/img",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt0099850",
       "type": "movie",
       "name": "Internal Affairs",
@@ -334,6 +347,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt0085780/img",
       "posterShape": "poster",
       "releaseInfo": "1983",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0097474",
+      "type": "movie",
+      "name": "Halloween 5: The Revenge of Michael Myers",
+      "poster": "https://images.metahub.space/poster/medium/tt0097474/img",
+      "background": "https://images.metahub.space/background/medium/tt0097474/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0097474/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0095271",
+      "type": "movie",
+      "name": "Halloween 4: The Return of Michael Myers",
+      "poster": "https://images.metahub.space/poster/medium/tt0095271/img",
+      "background": "https://images.metahub.space/background/medium/tt0095271/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0095271/img",
+      "posterShape": "poster",
+      "releaseInfo": "1988",
       "genres": [
         "Horror"
       ]
@@ -609,32 +648,6 @@
       "releaseInfo": "2018",
       "genres": [
         "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0060665",
-      "type": "movie",
-      "name": "A Man for All Seasons (1966)",
-      "poster": "https://images.metahub.space/poster/medium/tt0060665/img",
-      "background": "https://images.metahub.space/background/medium/tt0060665/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0060665/img",
-      "posterShape": "poster",
-      "releaseInfo": "1966",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0041113",
-      "type": "movie",
-      "name": "All the King's Men",
-      "poster": "https://images.metahub.space/poster/medium/tt0041113/img",
-      "background": "https://images.metahub.space/background/medium/tt0041113/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0041113/img",
-      "posterShape": "poster",
-      "releaseInfo": "1949",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -1210,19 +1223,6 @@
       ]
     },
     {
-      "id": "tt1298650",
-      "type": "movie",
-      "name": "Pirates of the Caribbean: On Stranger Tides",
-      "poster": "https://images.metahub.space/poster/medium/tt1298650/img",
-      "background": "https://images.metahub.space/background/medium/tt1298650/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1298650/img",
-      "posterShape": "poster",
-      "releaseInfo": "2011",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt0084597",
       "type": "movie",
       "name": "Richard Pryor: Live On the Sunset Strip",
@@ -1662,19 +1662,6 @@
       "releaseInfo": "1938",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt27795526",
-      "type": "movie",
-      "name": "High & Low - John Galliano",
-      "poster": "https://images.metahub.space/poster/medium/tt27795526/img",
-      "background": "https://images.metahub.space/background/medium/tt27795526/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27795526/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary"
       ]
     },
     {
@@ -2221,6 +2208,32 @@
       "releaseInfo": "2017",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt0060665",
+      "type": "movie",
+      "name": "A Man for All Seasons (1966)",
+      "poster": "https://images.metahub.space/poster/medium/tt0060665/img",
+      "background": "https://images.metahub.space/background/medium/tt0060665/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0060665/img",
+      "posterShape": "poster",
+      "releaseInfo": "1966",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0041113",
+      "type": "movie",
+      "name": "All the King's Men",
+      "poster": "https://images.metahub.space/poster/medium/tt0041113/img",
+      "background": "https://images.metahub.space/background/medium/tt0041113/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0041113/img",
+      "posterShape": "poster",
+      "releaseInfo": "1949",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -3290,32 +3303,6 @@
       ]
     },
     {
-      "id": "tt14504496",
-      "type": "movie",
-      "name": "I'm Sorry If I Took a Toll on You",
-      "poster": "https://images.metahub.space/poster/medium/tt14504496/img",
-      "background": "https://images.metahub.space/background/medium/tt14504496/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14504496/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt14939308",
-      "type": "movie",
-      "name": "Allegoria",
-      "poster": "https://images.metahub.space/poster/medium/tt14939308/img",
-      "background": "https://images.metahub.space/background/medium/tt14939308/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14939308/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt0046250",
       "type": "movie",
       "name": "Roman Holiday",
@@ -3560,6 +3547,32 @@
       "releaseInfo": "2026",
       "genres": [
         "Independent"
+      ]
+    },
+    {
+      "id": "tt4302938",
+      "type": "movie",
+      "name": "Kubo and the Two Strings",
+      "poster": "https://images.metahub.space/poster/medium/tt4302938/img",
+      "background": "https://images.metahub.space/background/medium/tt4302938/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4302938/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline",
+      "poster": "https://images.metahub.space/poster/medium/tt0327597/img",
+      "background": "https://images.metahub.space/background/medium/tt0327597/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
+      "posterShape": "poster",
+      "releaseInfo": "2009",
+      "genres": [
+        "Kids & Family"
       ]
     },
     {
@@ -4440,19 +4453,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt15047880/img",
       "background": "https://images.metahub.space/background/medium/tt15047880/img",
       "logo": "https://images.metahub.space/logo/medium/tt15047880/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt9506480",
-      "type": "movie",
-      "name": "Saturn",
-      "poster": "https://images.metahub.space/poster/medium/tt9506480/img",
-      "background": "https://images.metahub.space/background/medium/tt9506480/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9506480/img",
       "posterShape": "poster",
       "releaseInfo": "2026",
       "genres": [

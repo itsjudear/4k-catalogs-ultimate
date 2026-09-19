@@ -417,6 +417,19 @@
       ]
     },
     {
+      "id": "tt0831888",
+      "type": "movie",
+      "name": "Tekkonkinkreet",
+      "poster": "https://images.metahub.space/poster/medium/tt0831888/img",
+      "background": "https://images.metahub.space/background/medium/tt0831888/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0831888/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt32112775",
       "type": "movie",
       "name": "Original Sound",
@@ -518,32 +531,6 @@
       "releaseInfo": "2026",
       "genres": [
         "Horror"
-      ]
-    },
-    {
-      "id": "tt32275943",
-      "type": "movie",
-      "name": "Alpha",
-      "poster": "https://images.metahub.space/poster/medium/tt32275943/img",
-      "background": "https://images.metahub.space/background/medium/tt32275943/img",
-      "logo": "https://images.metahub.space/logo/medium/tt32275943/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt13968662",
-      "type": "movie",
-      "name": "A Magnificent Life",
-      "poster": "https://images.metahub.space/poster/medium/tt13968662/img",
-      "background": "https://images.metahub.space/background/medium/tt13968662/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13968662/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Comedy"
       ]
     },
     {
@@ -885,16 +872,29 @@
       ]
     },
     {
-      "id": "tt19319352",
+      "id": "tt13968662",
       "type": "movie",
-      "name": "Mayhem!",
-      "poster": "https://images.metahub.space/poster/medium/tt19319352/img",
-      "background": "https://images.metahub.space/background/medium/tt19319352/img",
-      "logo": "https://images.metahub.space/logo/medium/tt19319352/img",
+      "name": "A Magnificent Life",
+      "poster": "https://images.metahub.space/poster/medium/tt13968662/img",
+      "background": "https://images.metahub.space/background/medium/tt13968662/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13968662/img",
       "posterShape": "poster",
-      "releaseInfo": "2024",
+      "releaseInfo": "2026",
       "genres": [
-        "Action & Adventure"
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt36589928",
+      "type": "movie",
+      "name": "Our Hero, Balthazar",
+      "poster": "https://images.metahub.space/poster/medium/tt36589928/img",
+      "background": "https://images.metahub.space/background/medium/tt36589928/img",
+      "logo": "https://images.metahub.space/logo/medium/tt36589928/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy"
       ]
     },
     {
@@ -1366,19 +1366,6 @@
       ]
     },
     {
-      "id": "tt24429218",
-      "type": "movie",
-      "name": "Genie (2023)",
-      "poster": "https://images.metahub.space/poster/medium/tt24429218/img",
-      "background": "https://images.metahub.space/background/medium/tt24429218/img",
-      "logo": "https://images.metahub.space/logo/medium/tt24429218/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt37408540",
       "type": "movie",
       "name": "Beyond Disclosure: The Corey Goode Files",
@@ -1463,19 +1450,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt28451030/img",
       "background": "https://images.metahub.space/background/medium/tt28451030/img",
       "logo": "https://images.metahub.space/logo/medium/tt28451030/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
-      "id": "tt27795526",
-      "type": "movie",
-      "name": "High & Low - John Galliano",
-      "poster": "https://images.metahub.space/poster/medium/tt27795526/img",
-      "background": "https://images.metahub.space/background/medium/tt27795526/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27795526/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "genres": [
@@ -1896,6 +1870,32 @@
       "releaseInfo": "2020",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt9602666",
+      "type": "movie",
+      "name": "Bluebird",
+      "poster": "https://images.metahub.space/poster/medium/tt9602666/img",
+      "background": "https://images.metahub.space/background/medium/tt9602666/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9602666/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt32275943",
+      "type": "movie",
+      "name": "Alpha",
+      "poster": "https://images.metahub.space/poster/medium/tt32275943/img",
+      "background": "https://images.metahub.space/background/medium/tt32275943/img",
+      "logo": "https://images.metahub.space/logo/medium/tt32275943/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -2900,19 +2900,6 @@
       ]
     },
     {
-      "id": "tt11245972",
-      "type": "movie",
-      "name": "Scream (2022)",
-      "poster": "https://images.metahub.space/poster/medium/tt11245972/img",
-      "background": "https://images.metahub.space/background/medium/tt11245972/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11245972/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt33350512",
       "type": "movie",
       "name": "100 Nights of Hero",
@@ -3381,6 +3368,19 @@
       ]
     },
     {
+      "id": "tt4302938",
+      "type": "movie",
+      "name": "Kubo and the Two Strings",
+      "poster": "https://images.metahub.space/poster/medium/tt4302938/img",
+      "background": "https://images.metahub.space/background/medium/tt4302938/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4302938/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
       "id": "tt3040964",
       "type": "movie",
       "name": "The Jungle Book (2016)",
@@ -3428,6 +3428,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0448694/img",
       "posterShape": "poster",
       "releaseInfo": "2011",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline",
+      "poster": "https://images.metahub.space/poster/medium/tt0327597/img",
+      "background": "https://images.metahub.space/background/medium/tt0327597/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
+      "posterShape": "poster",
+      "releaseInfo": "2009",
       "genres": [
         "Kids & Family"
       ]
@@ -4013,19 +4026,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0078748/img",
       "posterShape": "poster",
       "releaseInfo": "1979",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt0063442",
-      "type": "movie",
-      "name": "Planet of the Apes (1968)",
-      "poster": "https://images.metahub.space/poster/medium/tt0063442/img",
-      "background": "https://images.metahub.space/background/medium/tt0063442/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0063442/img",
-      "posterShape": "poster",
-      "releaseInfo": "1968",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4637,6 +4637,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt5774060/img",
       "posterShape": "poster",
       "releaseInfo": "2020",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7134096",
+      "type": "movie",
+      "name": "The Rhythm Section",
+      "poster": "https://images.metahub.space/poster/medium/tt7134096/img",
+      "background": "https://images.metahub.space/background/medium/tt7134096/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7134096/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
       "genres": [
         "Thriller"
       ]
