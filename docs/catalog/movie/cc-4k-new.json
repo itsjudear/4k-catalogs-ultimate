@@ -105,19 +105,6 @@
       ]
     },
     {
-      "id": "tt31170389",
-      "type": "movie",
-      "name": "Evil Dead Burn",
-      "poster": "https://images.metahub.space/poster/medium/tt31170389/img",
-      "background": "https://images.metahub.space/background/medium/tt31170389/img",
-      "logo": "https://images.metahub.space/logo/medium/tt31170389/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt36834010",
       "type": "movie",
       "name": "Gail Daughtry and the Celebrity Sex Pass",
@@ -284,6 +271,19 @@
       "releaseInfo": "2026",
       "genres": [
         "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt38128726",
+      "type": "movie",
+      "name": "Stop! That! Train!",
+      "poster": "https://images.metahub.space/poster/medium/tt38128726/img",
+      "background": "https://images.metahub.space/background/medium/tt38128726/img",
+      "logo": "https://images.metahub.space/logo/medium/tt38128726/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy"
       ]
     },
     {
@@ -1340,19 +1340,6 @@
       ]
     },
     {
-      "id": "tt20195918",
-      "type": "movie",
-      "name": "Blow Up My Life",
-      "poster": "https://images.metahub.space/poster/medium/tt20195918/img",
-      "background": "https://images.metahub.space/background/medium/tt20195918/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20195918/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt28185868",
       "type": "movie",
       "name": "Kina & Yuk",
@@ -1899,6 +1886,19 @@
       ]
     },
     {
+      "id": "tt28334938",
+      "type": "movie",
+      "name": "Clika",
+      "poster": "https://images.metahub.space/poster/medium/tt28334938/img",
+      "background": "https://images.metahub.space/background/medium/tt28334938/img",
+      "logo": "https://images.metahub.space/logo/medium/tt28334938/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt14905854",
       "type": "movie",
       "name": "Hamnet",
@@ -2354,25 +2354,25 @@
       ]
     },
     {
-      "id": "tt17633634",
-      "type": "movie",
-      "name": "Bosco",
-      "poster": "https://images.metahub.space/poster/medium/tt17633634/img",
-      "background": "https://images.metahub.space/background/medium/tt17633634/img",
-      "logo": "https://images.metahub.space/logo/medium/tt17633634/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt22868010",
       "type": "movie",
       "name": "Return to Silent Hill",
       "poster": "https://images.metahub.space/poster/medium/tt22868010/img",
       "background": "https://images.metahub.space/background/medium/tt22868010/img",
       "logo": "https://images.metahub.space/logo/medium/tt22868010/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt8637438",
+      "type": "movie",
+      "name": "Night Patrol",
+      "poster": "https://images.metahub.space/poster/medium/tt8637438/img",
+      "background": "https://images.metahub.space/background/medium/tt8637438/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8637438/img",
       "posterShape": "poster",
       "releaseInfo": "2026",
       "genres": [
@@ -3589,19 +3589,6 @@
       ]
     },
     {
-      "id": "tt4302938",
-      "type": "movie",
-      "name": "Kubo and the Two Strings",
-      "poster": "https://images.metahub.space/poster/medium/tt4302938/img",
-      "background": "https://images.metahub.space/background/medium/tt4302938/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4302938/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt3040964",
       "type": "movie",
       "name": "The Jungle Book (2016)",
@@ -3636,6 +3623,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt3332064/img",
       "posterShape": "poster",
       "releaseInfo": "2015",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt2692250",
+      "type": "movie",
+      "name": "Night At the Museum: Secret of the Tomb",
+      "poster": "https://images.metahub.space/poster/medium/tt2692250/img",
+      "background": "https://images.metahub.space/background/medium/tt2692250/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2692250/img",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
       "genres": [
         "Kids & Family"
       ]
@@ -4174,6 +4174,19 @@
       ]
     },
     {
+      "id": "tt32792934",
+      "type": "movie",
+      "name": "The Plague",
+      "poster": "https://images.metahub.space/poster/medium/tt32792934/img",
+      "background": "https://images.metahub.space/background/medium/tt32792934/img",
+      "logo": "https://images.metahub.space/logo/medium/tt32792934/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt33113422",
       "type": "movie",
       "name": "Stone Creek Killer",
@@ -4674,19 +4687,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt10059518/img",
       "background": "https://images.metahub.space/background/medium/tt10059518/img",
       "logo": "https://images.metahub.space/logo/medium/tt10059518/img",
-      "posterShape": "poster",
-      "releaseInfo": "2020",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt5774060",
-      "type": "movie",
-      "name": "Underwater",
-      "poster": "https://images.metahub.space/poster/medium/tt5774060/img",
-      "background": "https://images.metahub.space/background/medium/tt5774060/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5774060/img",
       "posterShape": "poster",
       "releaseInfo": "2020",
       "genres": [
