@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt29549490",
+      "type": "movie",
+      "name": "California Schemin'",
+      "poster": "https://images.metahub.space/poster/medium/tt29549490/img",
+      "background": "https://images.metahub.space/background/medium/tt29549490/img",
+      "logo": "https://images.metahub.space/logo/medium/tt29549490/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -63,6 +76,19 @@
       "releaseInfo": "2026",
       "genres": [
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt39365766",
+      "type": "movie",
+      "name": "Peter",
+      "poster": "https://images.metahub.space/poster/medium/tt39365766/img",
+      "background": "https://images.metahub.space/background/medium/tt39365766/img",
+      "logo": "https://images.metahub.space/logo/medium/tt39365766/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Independent"
       ]
     },
     {
@@ -154,6 +180,19 @@
       "releaseInfo": "2026",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt35051162",
+      "type": "movie",
+      "name": "The Isolate Thief",
+      "poster": "https://images.metahub.space/poster/medium/tt35051162/img",
+      "background": "https://images.metahub.space/background/medium/tt35051162/img",
+      "logo": "https://images.metahub.space/logo/medium/tt35051162/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Western"
       ]
     },
     {
@@ -274,6 +313,19 @@
       ]
     },
     {
+      "id": "tt26669836",
+      "type": "movie",
+      "name": "Kangaroo Island",
+      "poster": "https://images.metahub.space/poster/medium/tt26669836/img",
+      "background": "https://images.metahub.space/background/medium/tt26669836/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26669836/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt34379307",
       "type": "movie",
       "name": "Is God Is",
@@ -378,6 +430,32 @@
       ]
     },
     {
+      "id": "tt27827635",
+      "type": "movie",
+      "name": "Ricky",
+      "poster": "https://images.metahub.space/poster/medium/tt27827635/img",
+      "background": "https://images.metahub.space/background/medium/tt27827635/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27827635/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0831888",
+      "type": "movie",
+      "name": "Tekkonkinkreet",
+      "poster": "https://images.metahub.space/poster/medium/tt0831888/img",
+      "background": "https://images.metahub.space/background/medium/tt0831888/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0831888/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt32112775",
       "type": "movie",
       "name": "Original Sound",
@@ -469,42 +547,16 @@
       ]
     },
     {
-      "id": "tt26470786",
+      "id": "tt8080418",
       "type": "movie",
-      "name": "The Cure",
-      "poster": "https://images.metahub.space/poster/medium/tt26470786/img",
-      "background": "https://images.metahub.space/background/medium/tt26470786/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26470786/img",
+      "name": "Storm Rider: Legend of Hammerhead",
+      "poster": "https://images.metahub.space/poster/medium/tt8080418/img",
+      "background": "https://images.metahub.space/background/medium/tt8080418/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8080418/img",
       "posterShape": "poster",
       "releaseInfo": "2026",
       "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt33978029",
-      "type": "movie",
-      "name": "Ready or Not 2: Here I Come",
-      "poster": "https://images.metahub.space/poster/medium/tt33978029/img",
-      "background": "https://images.metahub.space/background/medium/tt33978029/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33978029/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt33714084",
-      "type": "movie",
-      "name": "Reminders of Him",
-      "poster": "https://images.metahub.space/poster/medium/tt33714084/img",
-      "background": "https://images.metahub.space/background/medium/tt33714084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33714084/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
+        "Action & Adventure"
       ]
     },
     {
@@ -891,19 +943,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt5433140/img",
       "background": "https://images.metahub.space/background/medium/tt5433140/img",
       "logo": "https://images.metahub.space/logo/medium/tt5433140/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt2076356",
-      "type": "movie",
-      "name": "The Fight Machine",
-      "poster": "https://images.metahub.space/poster/medium/tt2076356/img",
-      "background": "https://images.metahub.space/background/medium/tt2076356/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2076356/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
       "genres": [
@@ -1899,6 +1938,19 @@
       ]
     },
     {
+      "id": "tt33714084",
+      "type": "movie",
+      "name": "Reminders of Him",
+      "poster": "https://images.metahub.space/poster/medium/tt33714084/img",
+      "background": "https://images.metahub.space/background/medium/tt33714084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33714084/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt34888646",
       "type": "movie",
       "name": "I Can Only Imagine 2",
@@ -2315,42 +2367,16 @@
       ]
     },
     {
-      "id": "tt3758542",
+      "id": "tt33978029",
       "type": "movie",
-      "name": "Ferrari",
-      "poster": "https://images.metahub.space/poster/medium/tt3758542/img",
-      "background": "https://images.metahub.space/background/medium/tt3758542/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3758542/img",
+      "name": "Ready or Not 2: Here I Come",
+      "poster": "https://images.metahub.space/poster/medium/tt33978029/img",
+      "background": "https://images.metahub.space/background/medium/tt33978029/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33978029/img",
       "posterShape": "poster",
-      "releaseInfo": "2023",
+      "releaseInfo": "2026",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt20420628",
-      "type": "movie",
-      "name": "Freud\u2019s Last Session",
-      "poster": "https://images.metahub.space/poster/medium/tt20420628/img",
-      "background": "https://images.metahub.space/background/medium/tt20420628/img",
-      "logo": "https://images.metahub.space/logo/medium/tt20420628/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt14953706",
-      "type": "movie",
-      "name": "Always, Lola",
-      "poster": "https://images.metahub.space/poster/medium/tt14953706/img",
-      "background": "https://images.metahub.space/background/medium/tt14953706/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14953706/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
+        "Horror"
       ]
     },
     {
@@ -2568,6 +2594,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt31314296/img",
       "background": "https://images.metahub.space/background/medium/tt31314296/img",
       "logo": "https://images.metahub.space/logo/medium/tt31314296/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt31511689",
+      "type": "movie",
+      "name": "Vicious",
+      "poster": "https://images.metahub.space/poster/medium/tt31511689/img",
+      "background": "https://images.metahub.space/background/medium/tt31511689/img",
+      "logo": "https://images.metahub.space/logo/medium/tt31511689/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -3524,6 +3563,19 @@
       ]
     },
     {
+      "id": "tt17497960",
+      "type": "movie",
+      "name": "BLKNWS: Terms and Conditions",
+      "poster": "https://images.metahub.space/poster/medium/tt17497960/img",
+      "background": "https://images.metahub.space/background/medium/tt17497960/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17497960/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
       "id": "tt1742179",
       "type": "movie",
       "name": "Starbright",
@@ -3937,6 +3989,19 @@
       "releaseInfo": "1985",
       "genres": [
         "Sports"
+      ]
+    },
+    {
+      "id": "tt26470786",
+      "type": "movie",
+      "name": "The Cure",
+      "poster": "https://images.metahub.space/poster/medium/tt26470786/img",
+      "background": "https://images.metahub.space/background/medium/tt26470786/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26470786/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller"
       ]
     },
     {
