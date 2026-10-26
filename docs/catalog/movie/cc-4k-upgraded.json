@@ -638,19 +638,6 @@
       ]
     },
     {
-      "id": "tt0099850",
-      "type": "movie",
-      "name": "Internal Affairs",
-      "poster": "https://images.metahub.space/poster/medium/tt0099850/img",
-      "background": "https://images.metahub.space/background/medium/tt0099850/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0099850/img",
-      "posterShape": "poster",
-      "releaseInfo": "1990",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0062861",
       "type": "movie",
       "name": "Danger: Diabolik",
@@ -3277,19 +3264,6 @@
       ]
     },
     {
-      "id": "tt0862856",
-      "type": "movie",
-      "name": "Trick 'R Treat (2008)",
-      "poster": "https://images.metahub.space/poster/medium/tt0862856/img",
-      "background": "https://images.metahub.space/background/medium/tt0862856/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0862856/img",
-      "posterShape": "poster",
-      "releaseInfo": "2008",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt0073802",
       "type": "movie",
       "name": "Three Days of the Condor",
@@ -4652,6 +4626,19 @@
       "releaseInfo": "2024",
       "genres": [
         "Sports"
+      ]
+    },
+    {
+      "id": "tt0099850",
+      "type": "movie",
+      "name": "Internal Affairs",
+      "poster": "https://images.metahub.space/poster/medium/tt0099850/img",
+      "background": "https://images.metahub.space/background/medium/tt0099850/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0099850/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990",
+      "genres": [
+        "Thriller"
       ]
     },
     {
