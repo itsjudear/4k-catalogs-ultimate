@@ -144,6 +144,19 @@
       ]
     },
     {
+      "id": "tt33305867",
+      "type": "movie",
+      "name": "Spa Weekend",
+      "poster": "https://images.metahub.space/poster/medium/tt33305867/img",
+      "background": "https://images.metahub.space/background/medium/tt33305867/img",
+      "logo": "https://images.metahub.space/logo/medium/tt33305867/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt27165187",
       "type": "movie",
       "name": "The End of Oak Street",
@@ -885,6 +898,19 @@
       ]
     },
     {
+      "id": "tt5822536",
+      "type": "movie",
+      "name": "Paddington in Peru",
+      "poster": "https://images.metahub.space/poster/medium/tt5822536/img",
+      "background": "https://images.metahub.space/background/medium/tt5822536/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5822536/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt34910018",
       "type": "movie",
       "name": "Sniper: The Last Stand",
@@ -956,19 +982,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt14226748/img",
       "background": "https://images.metahub.space/background/medium/tt14226748/img",
       "logo": "https://images.metahub.space/logo/medium/tt14226748/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt10079652",
-      "type": "movie",
-      "name": "Art of Eight Limbs",
-      "poster": "https://images.metahub.space/poster/medium/tt10079652/img",
-      "background": "https://images.metahub.space/background/medium/tt10079652/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10079652/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "genres": [
@@ -1868,6 +1881,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt12267100/img",
       "posterShape": "poster",
       "releaseInfo": "2021",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt12590534",
+      "type": "movie",
+      "name": "Dear Santa",
+      "poster": "https://images.metahub.space/poster/medium/tt12590534/img",
+      "background": "https://images.metahub.space/background/medium/tt12590534/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12590534/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020",
       "genres": [
         "Documentary"
       ]
@@ -4070,19 +4096,6 @@
       ]
     },
     {
-      "id": "tt0242653",
-      "type": "movie",
-      "name": "The Matrix Revolutions",
-      "poster": "https://images.metahub.space/poster/medium/tt0242653/img",
-      "background": "https://images.metahub.space/background/medium/tt0242653/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0242653/img",
-      "posterShape": "poster",
-      "releaseInfo": "2003",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
       "id": "tt0120804",
       "type": "movie",
       "name": "Resident Evil",
@@ -4104,6 +4117,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt0120647/img",
       "posterShape": "poster",
       "releaseInfo": "1998",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0119081",
+      "type": "movie",
+      "name": "Event Horizon",
+      "poster": "https://images.metahub.space/poster/medium/tt0119081/img",
+      "background": "https://images.metahub.space/background/medium/tt0119081/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0119081/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0099487",
+      "type": "movie",
+      "name": "Edward Scissorhands",
+      "poster": "https://images.metahub.space/poster/medium/tt0099487/img",
+      "background": "https://images.metahub.space/background/medium/tt0099487/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0099487/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
