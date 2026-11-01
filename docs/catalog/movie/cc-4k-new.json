@@ -183,6 +183,19 @@
       ]
     },
     {
+      "id": "tt36981462",
+      "type": "movie",
+      "name": "Union County",
+      "poster": "https://images.metahub.space/poster/medium/tt36981462/img",
+      "background": "https://images.metahub.space/background/medium/tt36981462/img",
+      "logo": "https://images.metahub.space/logo/medium/tt36981462/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt27165187",
       "type": "movie",
       "name": "The End of Oak Street",
@@ -2003,19 +2016,6 @@
       ]
     },
     {
-      "id": "tt11378946",
-      "type": "movie",
-      "name": "Michael",
-      "poster": "https://images.metahub.space/poster/medium/tt11378946/img",
-      "background": "https://images.metahub.space/background/medium/tt11378946/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11378946/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt27200708",
       "type": "movie",
       "name": "Mother Mary",
@@ -3329,19 +3329,6 @@
       ]
     },
     {
-      "id": "tt4302938",
-      "type": "movie",
-      "name": "Kubo and the Two Strings",
-      "poster": "https://images.metahub.space/poster/medium/tt4302938/img",
-      "background": "https://images.metahub.space/background/medium/tt4302938/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4302938/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt3040964",
       "type": "movie",
       "name": "The Jungle Book (2016)",
@@ -3459,19 +3446,6 @@
       ]
     },
     {
-      "id": "tt0327597",
-      "type": "movie",
-      "name": "Coraline",
-      "poster": "https://images.metahub.space/poster/medium/tt0327597/img",
-      "background": "https://images.metahub.space/background/medium/tt0327597/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
-      "posterShape": "poster",
-      "releaseInfo": "2009",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt0121164",
       "type": "movie",
       "name": "Tim Burton's Corpse Bride",
@@ -3519,6 +3493,45 @@
       "logo": "https://images.metahub.space/logo/medium/tt0120917/img",
       "posterShape": "poster",
       "releaseInfo": "2000",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0120783",
+      "type": "movie",
+      "name": "The Parent Trap (1998)",
+      "poster": "https://images.metahub.space/poster/medium/tt0120783/img",
+      "background": "https://images.metahub.space/background/medium/tt0120783/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0120783/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0112642",
+      "type": "movie",
+      "name": "Casper",
+      "poster": "https://images.metahub.space/poster/medium/tt0112642/img",
+      "background": "https://images.metahub.space/background/medium/tt0112642/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0112642/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "The Lion King",
+      "poster": "https://images.metahub.space/poster/medium/tt0110357/img",
+      "background": "https://images.metahub.space/background/medium/tt0110357/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0110357/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994",
       "genres": [
         "Kids & Family"
       ]
@@ -4091,6 +4104,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt0116996/img",
       "posterShape": "poster",
       "releaseInfo": "1997",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0099487",
+      "type": "movie",
+      "name": "Edward Scissorhands",
+      "poster": "https://images.metahub.space/poster/medium/tt0099487/img",
+      "background": "https://images.metahub.space/background/medium/tt0099487/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0099487/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0096256",
+      "type": "movie",
+      "name": "They Live",
+      "poster": "https://images.metahub.space/poster/medium/tt0096256/img",
+      "background": "https://images.metahub.space/background/medium/tt0096256/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0096256/img",
+      "posterShape": "poster",
+      "releaseInfo": "1988",
       "genres": [
         "Sci-Fi & Fantasy"
       ]

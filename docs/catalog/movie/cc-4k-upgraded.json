@@ -3030,19 +3030,6 @@
       ]
     },
     {
-      "id": "tt0095271",
-      "type": "movie",
-      "name": "Halloween 4: The Return of Michael Myers",
-      "poster": "https://images.metahub.space/poster/medium/tt0095271/img",
-      "background": "https://images.metahub.space/background/medium/tt0095271/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0095271/img",
-      "posterShape": "poster",
-      "releaseInfo": "1988",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt1853739",
       "type": "movie",
       "name": "You're Next",
@@ -3303,6 +3290,19 @@
       ]
     },
     {
+      "id": "tt1778304",
+      "type": "movie",
+      "name": "Paranormal Activity 3",
+      "poster": "https://images.metahub.space/poster/medium/tt1778304/img",
+      "background": "https://images.metahub.space/background/medium/tt1778304/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1778304/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
       "id": "tt0073802",
       "type": "movie",
       "name": "Three Days of the Condor",
@@ -3506,32 +3506,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt9848626/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt4302938",
-      "type": "movie",
-      "name": "Kubo and the Two Strings",
-      "poster": "https://images.metahub.space/poster/medium/tt4302938/img",
-      "background": "https://images.metahub.space/background/medium/tt4302938/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4302938/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0327597",
-      "type": "movie",
-      "name": "Coraline",
-      "poster": "https://images.metahub.space/poster/medium/tt0327597/img",
-      "background": "https://images.metahub.space/background/medium/tt0327597/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
-      "posterShape": "poster",
-      "releaseInfo": "2009",
       "genres": [
         "Kids & Family"
       ]
@@ -3935,6 +3909,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt27155038/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt13149564",
+      "type": "movie",
+      "name": "Little Town",
+      "poster": "https://images.metahub.space/poster/medium/tt13149564/img",
+      "background": "https://images.metahub.space/background/medium/tt13149564/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13149564/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://images.metahub.space/poster/medium/tt13622970/img",
+      "background": "https://images.metahub.space/background/medium/tt13622970/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13622970/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
       "genres": [
         "Kids & Family"
       ]
@@ -4533,6 +4533,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt18180926/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt19409102",
+      "type": "movie",
+      "name": "Witchy Ways",
+      "poster": "https://images.metahub.space/poster/medium/tt19409102/img",
+      "background": "https://images.metahub.space/background/medium/tt19409102/img",
+      "logo": "https://images.metahub.space/logo/medium/tt19409102/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
