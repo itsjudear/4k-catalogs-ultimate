@@ -66,6 +66,19 @@
       ]
     },
     {
+      "id": "tt0970866",
+      "type": "movie",
+      "name": "Little Fockers",
+      "poster": "https://images.metahub.space/poster/medium/tt0970866/img",
+      "background": "https://images.metahub.space/background/medium/tt0970866/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0970866/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt0043274",
       "type": "movie",
       "name": "Alice In Wonderland (1951)",
@@ -79,6 +92,58 @@
       ]
     },
     {
+      "id": "tt0458352",
+      "type": "movie",
+      "name": "The Devil Wears Prada",
+      "poster": "https://images.metahub.space/poster/medium/tt0458352/img",
+      "background": "https://images.metahub.space/background/medium/tt0458352/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0458352/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0142688",
+      "type": "movie",
+      "name": "The Ninth Gate",
+      "poster": "https://images.metahub.space/poster/medium/tt0142688/img",
+      "background": "https://images.metahub.space/background/medium/tt0142688/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0142688/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0441909",
+      "type": "movie",
+      "name": "Volver",
+      "poster": "https://images.metahub.space/poster/medium/tt0441909/img",
+      "background": "https://images.metahub.space/background/medium/tt0441909/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0441909/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0137523",
+      "type": "movie",
+      "name": "Fight Club",
+      "poster": "https://images.metahub.space/poster/medium/tt0137523/img",
+      "background": "https://images.metahub.space/background/medium/tt0137523/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0137523/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt0109951",
       "type": "movie",
       "name": "Guarding Tess",
@@ -87,6 +152,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0109951/img",
       "posterShape": "poster",
       "releaseInfo": "1994",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0290002",
+      "type": "movie",
+      "name": "Meet the Fockers",
+      "poster": "https://images.metahub.space/poster/medium/tt0290002/img",
+      "background": "https://images.metahub.space/background/medium/tt0290002/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0290002/img",
+      "posterShape": "poster",
+      "releaseInfo": "2004",
       "genres": [
         "Comedy"
       ]
@@ -113,6 +191,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0052618/img",
       "posterShape": "poster",
       "releaseInfo": "1959",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0268978",
+      "type": "movie",
+      "name": "A Beautiful Mind",
+      "poster": "https://images.metahub.space/poster/medium/tt0268978/img",
+      "background": "https://images.metahub.space/background/medium/tt0268978/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0268978/img",
+      "posterShape": "poster",
+      "releaseInfo": "2001",
       "genres": [
         "Drama"
       ]
@@ -157,6 +248,45 @@
       ]
     },
     {
+      "id": "tt0089791",
+      "type": "movie",
+      "name": "Pee-Wee's Big Adventure",
+      "poster": "https://images.metahub.space/poster/medium/tt0089791/img",
+      "background": "https://images.metahub.space/background/medium/tt0089791/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0089791/img",
+      "posterShape": "poster",
+      "releaseInfo": "1985",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0363771",
+      "type": "movie",
+      "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "poster": "https://images.metahub.space/poster/medium/tt0363771/img",
+      "background": "https://images.metahub.space/background/medium/tt0363771/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0363771/img",
+      "posterShape": "poster",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0162222",
+      "type": "movie",
+      "name": "Cast Away",
+      "poster": "https://images.metahub.space/poster/medium/tt0162222/img",
+      "background": "https://images.metahub.space/background/medium/tt0162222/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0162222/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt35314797",
       "type": "movie",
       "name": "Are We Good?",
@@ -183,6 +313,32 @@
       ]
     },
     {
+      "id": "tt3774114",
+      "type": "movie",
+      "name": "Snowden",
+      "poster": "https://images.metahub.space/poster/medium/tt3774114/img",
+      "background": "https://images.metahub.space/background/medium/tt3774114/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3774114/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2872718",
+      "type": "movie",
+      "name": "Nightcrawler",
+      "poster": "https://images.metahub.space/poster/medium/tt2872718/img",
+      "background": "https://images.metahub.space/background/medium/tt2872718/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2872718/img",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt0352248",
       "type": "movie",
       "name": "Cinderella Man",
@@ -196,14 +352,14 @@
       ]
     },
     {
-      "id": "tt1601913",
+      "id": "tt1895587",
       "type": "movie",
-      "name": "The Grey",
-      "poster": "https://images.metahub.space/poster/medium/tt1601913/img",
-      "background": "https://images.metahub.space/background/medium/tt1601913/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1601913/img",
+      "name": "Spotlight",
+      "poster": "https://images.metahub.space/poster/medium/tt1895587/img",
+      "background": "https://images.metahub.space/background/medium/tt1895587/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1895587/img",
       "posterShape": "poster",
-      "releaseInfo": "2012",
+      "releaseInfo": "2015",
       "genres": [
         "Drama"
       ]
@@ -222,6 +378,19 @@
       ]
     },
     {
+      "id": "tt0080549",
+      "type": "movie",
+      "name": "Coal Miner's Daughter",
+      "poster": "https://images.metahub.space/poster/medium/tt0080549/img",
+      "background": "https://images.metahub.space/background/medium/tt0080549/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0080549/img",
+      "posterShape": "poster",
+      "releaseInfo": "1980",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1379182",
       "type": "movie",
       "name": "Dogtooth",
@@ -235,6 +404,19 @@
       ]
     },
     {
+      "id": "tt0195685",
+      "type": "movie",
+      "name": "Erin Brockovich",
+      "poster": "https://images.metahub.space/poster/medium/tt0195685/img",
+      "background": "https://images.metahub.space/background/medium/tt0195685/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0195685/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0114194",
       "type": "movie",
       "name": "The Prophecy",
@@ -243,6 +425,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt0114194/img",
       "posterShape": "poster",
       "releaseInfo": "1995",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0212338",
+      "type": "movie",
+      "name": "Meet the Parents",
+      "poster": "https://images.metahub.space/poster/medium/tt0212338/img",
+      "background": "https://images.metahub.space/background/medium/tt0212338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0212338/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt3235888",
+      "type": "movie",
+      "name": "It Follows",
+      "poster": "https://images.metahub.space/poster/medium/tt3235888/img",
+      "background": "https://images.metahub.space/background/medium/tt3235888/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3235888/img",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
       "genres": [
         "Horror"
       ]
@@ -271,32 +479,6 @@
       "releaseInfo": "1998",
       "genres": [
         "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0264616",
-      "type": "movie",
-      "name": "Frailty",
-      "poster": "https://images.metahub.space/poster/medium/tt0264616/img",
-      "background": "https://images.metahub.space/background/medium/tt0264616/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0264616/img",
-      "posterShape": "poster",
-      "releaseInfo": "2001",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0102685",
-      "type": "movie",
-      "name": "Point Break",
-      "poster": "https://images.metahub.space/poster/medium/tt0102685/img",
-      "background": "https://images.metahub.space/background/medium/tt0102685/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0102685/img",
-      "posterShape": "poster",
-      "releaseInfo": "1991",
-      "genres": [
-        "Action & Adventure"
       ]
     },
     {
@@ -336,6 +518,19 @@
       "releaseInfo": "1993",
       "genres": [
         "Western"
+      ]
+    },
+    {
+      "id": "tt0089755",
+      "type": "movie",
+      "name": "Out of Africa",
+      "poster": "https://images.metahub.space/poster/medium/tt0089755/img",
+      "background": "https://images.metahub.space/background/medium/tt0089755/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0089755/img",
+      "posterShape": "poster",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -443,19 +638,6 @@
       ]
     },
     {
-      "id": "tt0118617",
-      "type": "movie",
-      "name": "Anastasia (1997)",
-      "poster": "https://images.metahub.space/poster/medium/tt0118617/img",
-      "background": "https://images.metahub.space/background/medium/tt0118617/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0118617/img",
-      "posterShape": "poster",
-      "releaseInfo": "1997",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt0118880",
       "type": "movie",
       "name": "Con Air",
@@ -482,159 +664,16 @@
       ]
     },
     {
-      "id": "tt0374900",
+      "id": "tt1950186",
       "type": "movie",
-      "name": "Napoleon Dynamite",
-      "poster": "https://images.metahub.space/poster/medium/tt0374900/img",
-      "background": "https://images.metahub.space/background/medium/tt0374900/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0374900/img",
+      "name": "Ford v Ferrari",
+      "poster": "https://images.metahub.space/poster/medium/tt1950186/img",
+      "background": "https://images.metahub.space/background/medium/tt1950186/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1950186/img",
       "posterShape": "poster",
-      "releaseInfo": "2004",
+      "releaseInfo": "2019",
       "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0070379",
-      "type": "movie",
-      "name": "Mean Streets",
-      "poster": "https://images.metahub.space/poster/medium/tt0070379/img",
-      "background": "https://images.metahub.space/background/medium/tt0070379/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0070379/img",
-      "posterShape": "poster",
-      "releaseInfo": "1973",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0477347",
-      "type": "movie",
-      "name": "Night At the Museum",
-      "poster": "https://images.metahub.space/poster/medium/tt0477347/img",
-      "background": "https://images.metahub.space/background/medium/tt0477347/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0477347/img",
-      "posterShape": "poster",
-      "releaseInfo": "2006",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt12444934",
-      "type": "movie",
-      "name": "Devil's Workshop",
-      "poster": "https://images.metahub.space/poster/medium/tt12444934/img",
-      "background": "https://images.metahub.space/background/medium/tt12444934/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12444934/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt22207152",
-      "type": "movie",
-      "name": "A Christmas Mystery",
-      "poster": "https://images.metahub.space/poster/medium/tt22207152/img",
-      "background": "https://images.metahub.space/background/medium/tt22207152/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22207152/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt12531856",
-      "type": "movie",
-      "name": "The American",
-      "poster": "https://images.metahub.space/poster/medium/tt12531856/img",
-      "background": "https://images.metahub.space/background/medium/tt12531856/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12531856/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0060345",
-      "type": "movie",
-      "name": "How the Grinch Stole Christmas: The Ultimate Edition",
-      "poster": "https://images.metahub.space/poster/medium/tt0060345/img",
-      "background": "https://images.metahub.space/background/medium/tt0060345/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0060345/img",
-      "posterShape": "poster",
-      "releaseInfo": "1966",
-      "genres": [
-        "Holiday"
-      ]
-    },
-    {
-      "id": "tt0290823",
-      "type": "movie",
-      "name": "Secret Ballot",
-      "poster": "https://images.metahub.space/poster/medium/tt0290823/img",
-      "background": "https://images.metahub.space/background/medium/tt0290823/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0290823/img",
-      "posterShape": "poster",
-      "releaseInfo": "2001",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt13170092",
-      "type": "movie",
-      "name": "Rosebud Lane",
-      "poster": "https://images.metahub.space/poster/medium/tt13170092/img",
-      "background": "https://images.metahub.space/background/medium/tt13170092/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13170092/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0375063",
-      "type": "movie",
-      "name": "Sideways",
-      "poster": "https://images.metahub.space/poster/medium/tt0375063/img",
-      "background": "https://images.metahub.space/background/medium/tt0375063/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0375063/img",
-      "posterShape": "poster",
-      "releaseInfo": "2004",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0060665",
-      "type": "movie",
-      "name": "A Man for All Seasons (1966)",
-      "poster": "https://images.metahub.space/poster/medium/tt0060665/img",
-      "background": "https://images.metahub.space/background/medium/tt0060665/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0060665/img",
-      "posterShape": "poster",
-      "releaseInfo": "1966",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0041113",
-      "type": "movie",
-      "name": "All the King's Men",
-      "poster": "https://images.metahub.space/poster/medium/tt0041113/img",
-      "background": "https://images.metahub.space/background/medium/tt0041113/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0041113/img",
-      "posterShape": "poster",
-      "releaseInfo": "1949",
-      "genres": [
-        "Drama"
+        "Action & Adventure"
       ]
     },
     {
@@ -664,6 +703,19 @@
       ]
     },
     {
+      "id": "tt12037194",
+      "type": "movie",
+      "name": "Furiosa: A Mad Max Saga",
+      "poster": "https://images.metahub.space/poster/medium/tt12037194/img",
+      "background": "https://images.metahub.space/background/medium/tt12037194/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12037194/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt13055264",
       "type": "movie",
       "name": "Strange Way of Life",
@@ -672,6 +724,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt13055264/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt2567026",
+      "type": "movie",
+      "name": "Alice Through the Looking Glass (2016)",
+      "poster": "https://images.metahub.space/poster/medium/tt2567026/img",
+      "background": "https://images.metahub.space/background/medium/tt2567026/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2567026/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0070034",
+      "type": "movie",
+      "name": "Enter the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt0070034/img",
+      "background": "https://images.metahub.space/background/medium/tt0070034/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0070034/img",
+      "posterShape": "poster",
+      "releaseInfo": "1973",
       "genres": [
         "Action & Adventure"
       ]
@@ -698,19 +776,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt1272878/img",
       "posterShape": "poster",
       "releaseInfo": "2013",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0237534",
-      "type": "movie",
-      "name": "Brotherhood of the Wolf",
-      "poster": "https://images.metahub.space/poster/medium/tt0237534/img",
-      "background": "https://images.metahub.space/background/medium/tt0237534/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0237534/img",
-      "posterShape": "poster",
-      "releaseInfo": "2002",
       "genres": [
         "Action & Adventure"
       ]
@@ -846,6 +911,19 @@
       ]
     },
     {
+      "id": "tt6264654",
+      "type": "movie",
+      "name": "Free Guy",
+      "poster": "https://images.metahub.space/poster/medium/tt6264654/img",
+      "background": "https://images.metahub.space/background/medium/tt6264654/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6264654/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt6334354",
       "type": "movie",
       "name": "The Suicide Squad (2021)",
@@ -950,6 +1028,19 @@
       ]
     },
     {
+      "id": "tt0258463",
+      "type": "movie",
+      "name": "The Bourne Identity",
+      "poster": "https://images.metahub.space/poster/medium/tt0258463/img",
+      "background": "https://images.metahub.space/background/medium/tt0258463/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0258463/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt2381249",
       "type": "movie",
       "name": "Mission: Impossible - Rogue Nation",
@@ -958,6 +1049,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt2381249/img",
       "posterShape": "poster",
       "releaseInfo": "2015",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0360717",
+      "type": "movie",
+      "name": "King Kong (2005)",
+      "poster": "https://images.metahub.space/poster/medium/tt0360717/img",
+      "background": "https://images.metahub.space/background/medium/tt0360717/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0360717/img",
+      "posterShape": "poster",
+      "releaseInfo": "2005",
       "genres": [
         "Action & Adventure"
       ]
@@ -989,6 +1093,58 @@
       ]
     },
     {
+      "id": "tt0325980",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "poster": "https://images.metahub.space/poster/medium/tt0325980/img",
+      "background": "https://images.metahub.space/background/medium/tt0325980/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0325980/img",
+      "posterShape": "poster",
+      "releaseInfo": "2003",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0449088",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: At World's End",
+      "poster": "https://images.metahub.space/poster/medium/tt0449088/img",
+      "background": "https://images.metahub.space/background/medium/tt0449088/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0449088/img",
+      "posterShape": "poster",
+      "releaseInfo": "2007",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt1298650",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: On Stranger Tides",
+      "poster": "https://images.metahub.space/poster/medium/tt1298650/img",
+      "background": "https://images.metahub.space/background/medium/tt1298650/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1298650/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt0383574",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: Dead Man's Chest",
+      "poster": "https://images.metahub.space/poster/medium/tt0383574/img",
+      "background": "https://images.metahub.space/background/medium/tt0383574/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0383574/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
       "id": "tt0434409",
       "type": "movie",
       "name": "V for Vendetta",
@@ -1015,159 +1171,55 @@
       ]
     },
     {
-      "id": "tt2245084",
+      "id": "tt1790809",
       "type": "movie",
-      "name": "Big Hero 6",
-      "poster": "https://images.metahub.space/poster/medium/tt2245084/img",
-      "background": "https://images.metahub.space/background/medium/tt2245084/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2245084/img",
+      "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "poster": "https://images.metahub.space/poster/medium/tt1790809/img",
+      "background": "https://images.metahub.space/background/medium/tt1790809/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1790809/img",
       "posterShape": "poster",
-      "releaseInfo": "2014",
+      "releaseInfo": "2017",
       "genres": [
         "Action & Adventure"
       ]
     },
     {
-      "id": "tt0272020",
+      "id": "tt0374900",
       "type": "movie",
-      "name": "The Last Castle",
-      "poster": "https://images.metahub.space/poster/medium/tt0272020/img",
-      "background": "https://images.metahub.space/background/medium/tt0272020/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0272020/img",
+      "name": "Napoleon Dynamite",
+      "poster": "https://images.metahub.space/poster/medium/tt0374900/img",
+      "background": "https://images.metahub.space/background/medium/tt0374900/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0374900/img",
+      "posterShape": "poster",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0290823",
+      "type": "movie",
+      "name": "Secret Ballot",
+      "poster": "https://images.metahub.space/poster/medium/tt0290823/img",
+      "background": "https://images.metahub.space/background/medium/tt0290823/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0290823/img",
       "posterShape": "poster",
       "releaseInfo": "2001",
       "genres": [
-        "Action & Adventure"
+        "Comedy"
       ]
     },
     {
-      "id": "tt0093058",
+      "id": "tt0375063",
       "type": "movie",
-      "name": "Full Metal Jacket",
-      "poster": "https://images.metahub.space/poster/medium/tt0093058/img",
-      "background": "https://images.metahub.space/background/medium/tt0093058/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0093058/img",
+      "name": "Sideways",
+      "poster": "https://images.metahub.space/poster/medium/tt0375063/img",
+      "background": "https://images.metahub.space/background/medium/tt0375063/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0375063/img",
       "posterShape": "poster",
-      "releaseInfo": "1987",
+      "releaseInfo": "2004",
       "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0029162",
-      "type": "movie",
-      "name": "Lost Horizon (1937)",
-      "poster": "https://images.metahub.space/poster/medium/tt0029162/img",
-      "background": "https://images.metahub.space/background/medium/tt0029162/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0029162/img",
-      "posterShape": "poster",
-      "releaseInfo": "1937",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt3741700",
-      "type": "movie",
-      "name": "Godzilla: King of the Monsters (2019)",
-      "poster": "https://images.metahub.space/poster/medium/tt3741700/img",
-      "background": "https://images.metahub.space/background/medium/tt3741700/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3741700/img",
-      "posterShape": "poster",
-      "releaseInfo": "2019",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0057115",
-      "type": "movie",
-      "name": "The Great Escape",
-      "poster": "https://images.metahub.space/poster/medium/tt0057115/img",
-      "background": "https://images.metahub.space/background/medium/tt0057115/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0057115/img",
-      "posterShape": "poster",
-      "releaseInfo": "1963",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0092099",
-      "type": "movie",
-      "name": "Top Gun",
-      "poster": "https://images.metahub.space/poster/medium/tt0092099/img",
-      "background": "https://images.metahub.space/background/medium/tt0092099/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092099/img",
-      "posterShape": "poster",
-      "releaseInfo": "1986",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt6924650",
-      "type": "movie",
-      "name": "Midway",
-      "poster": "https://images.metahub.space/poster/medium/tt6924650/img",
-      "background": "https://images.metahub.space/background/medium/tt6924650/img",
-      "logo": "https://images.metahub.space/logo/medium/tt6924650/img",
-      "posterShape": "poster",
-      "releaseInfo": "2019",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0462499",
-      "type": "movie",
-      "name": "Rambo",
-      "poster": "https://images.metahub.space/poster/medium/tt0462499/img",
-      "background": "https://images.metahub.space/background/medium/tt0462499/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0462499/img",
-      "posterShape": "poster",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0277296",
-      "type": "movie",
-      "name": "The Scorpion King",
-      "poster": "https://images.metahub.space/poster/medium/tt0277296/img",
-      "background": "https://images.metahub.space/background/medium/tt0277296/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0277296/img",
-      "posterShape": "poster",
-      "releaseInfo": "2002",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt4172430",
-      "type": "movie",
-      "name": "13 Hours: The Secret Soldiers of Benghazi",
-      "poster": "https://images.metahub.space/poster/medium/tt4172430/img",
-      "background": "https://images.metahub.space/background/medium/tt4172430/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4172430/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
-      "id": "tt0120685",
-      "type": "movie",
-      "name": "Godzilla",
-      "poster": "https://images.metahub.space/poster/medium/tt0120685/img",
-      "background": "https://images.metahub.space/background/medium/tt0120685/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0120685/img",
-      "posterShape": "poster",
-      "releaseInfo": "1998",
-      "genres": [
-        "Action & Adventure"
+        "Comedy"
       ]
     },
     {
@@ -1218,19 +1270,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0215129/img",
       "posterShape": "poster",
       "releaseInfo": "2000",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt13430858",
-      "type": "movie",
-      "name": "What's Love Got to Do With It?",
-      "poster": "https://images.metahub.space/poster/medium/tt13430858/img",
-      "background": "https://images.metahub.space/background/medium/tt13430858/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13430858/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
       "genres": [
         "Comedy"
       ]
@@ -1392,6 +1431,32 @@
       ]
     },
     {
+      "id": "tt0067992",
+      "type": "movie",
+      "name": "Willy Wonka and the Chocolate Factory",
+      "poster": "https://images.metahub.space/poster/medium/tt0067992/img",
+      "background": "https://images.metahub.space/background/medium/tt0067992/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0067992/img",
+      "posterShape": "poster",
+      "releaseInfo": "1971",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0076729",
+      "type": "movie",
+      "name": "Smokey and the Bandit",
+      "poster": "https://images.metahub.space/poster/medium/tt0076729/img",
+      "background": "https://images.metahub.space/background/medium/tt0076729/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0076729/img",
+      "posterShape": "poster",
+      "releaseInfo": "1977",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt0119360",
       "type": "movie",
       "name": "In & Out",
@@ -1470,6 +1535,19 @@
       ]
     },
     {
+      "id": "tt0080455",
+      "type": "movie",
+      "name": "The Blues Brothers (Theatrical Version)",
+      "poster": "https://images.metahub.space/poster/medium/tt0080455/img",
+      "background": "https://images.metahub.space/background/medium/tt0080455/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0080455/img",
+      "posterShape": "poster",
+      "releaseInfo": "1980",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt5164432",
       "type": "movie",
       "name": "Love, Simon",
@@ -1478,6 +1556,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt5164432/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0088763",
+      "type": "movie",
+      "name": "Back to the Future",
+      "poster": "https://images.metahub.space/poster/medium/tt0088763/img",
+      "background": "https://images.metahub.space/background/medium/tt0088763/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088763/img",
+      "posterShape": "poster",
+      "releaseInfo": "1985",
       "genres": [
         "Comedy"
       ]
@@ -1522,6 +1613,19 @@
       ]
     },
     {
+      "id": "tt9354944",
+      "type": "movie",
+      "name": "Jexi",
+      "poster": "https://images.metahub.space/poster/medium/tt9354944/img",
+      "background": "https://images.metahub.space/background/medium/tt9354944/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9354944/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt0109254",
       "type": "movie",
       "name": "Beverly Hills Cop III",
@@ -1548,120 +1652,16 @@
       ]
     },
     {
-      "id": "tt1213663",
+      "id": "tt0088178",
       "type": "movie",
-      "name": "The World's End",
-      "poster": "https://images.metahub.space/poster/medium/tt1213663/img",
-      "background": "https://images.metahub.space/background/medium/tt1213663/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1213663/img",
+      "name": "Stop Making Sense",
+      "poster": "https://images.metahub.space/poster/medium/tt0088178/img",
+      "background": "https://images.metahub.space/background/medium/tt0088178/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088178/img",
       "posterShape": "poster",
-      "releaseInfo": "2013",
+      "releaseInfo": "2023",
       "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0386588",
-      "type": "movie",
-      "name": "Hitch",
-      "poster": "https://images.metahub.space/poster/medium/tt0386588/img",
-      "background": "https://images.metahub.space/background/medium/tt0386588/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0386588/img",
-      "posterShape": "poster",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0098258",
-      "type": "movie",
-      "name": "Say Anything",
-      "poster": "https://images.metahub.space/poster/medium/tt0098258/img",
-      "background": "https://images.metahub.space/background/medium/tt0098258/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0098258/img",
-      "posterShape": "poster",
-      "releaseInfo": "1989",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0107614",
-      "type": "movie",
-      "name": "Mrs. Doubtfire",
-      "poster": "https://images.metahub.space/poster/medium/tt0107614/img",
-      "background": "https://images.metahub.space/background/medium/tt0107614/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0107614/img",
-      "posterShape": "poster",
-      "releaseInfo": "1993",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0094737",
-      "type": "movie",
-      "name": "Big",
-      "poster": "https://images.metahub.space/poster/medium/tt0094737/img",
-      "background": "https://images.metahub.space/background/medium/tt0094737/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0094737/img",
-      "posterShape": "poster",
-      "releaseInfo": "1988",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0108037",
-      "type": "movie",
-      "name": "The Sandlot",
-      "poster": "https://images.metahub.space/poster/medium/tt0108037/img",
-      "background": "https://images.metahub.space/background/medium/tt0108037/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0108037/img",
-      "posterShape": "poster",
-      "releaseInfo": "1993",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt2361509",
-      "type": "movie",
-      "name": "The Intern",
-      "poster": "https://images.metahub.space/poster/medium/tt2361509/img",
-      "background": "https://images.metahub.space/background/medium/tt2361509/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2361509/img",
-      "posterShape": "poster",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt1528854",
-      "type": "movie",
-      "name": "Daddy's Home",
-      "poster": "https://images.metahub.space/poster/medium/tt1528854/img",
-      "background": "https://images.metahub.space/background/medium/tt1528854/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1528854/img",
-      "posterShape": "poster",
-      "releaseInfo": "2015",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt1469304",
-      "type": "movie",
-      "name": "Baywatch",
-      "poster": "https://images.metahub.space/poster/medium/tt1469304/img",
-      "background": "https://images.metahub.space/background/medium/tt1469304/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1469304/img",
-      "posterShape": "poster",
-      "releaseInfo": "2017",
-      "genres": [
-        "Comedy"
+        "Documentary"
       ]
     },
     {
@@ -2185,19 +2185,6 @@
       ]
     },
     {
-      "id": "tt26681810",
-      "type": "movie",
-      "name": "War Game",
-      "poster": "https://images.metahub.space/poster/medium/tt26681810/img",
-      "background": "https://images.metahub.space/background/medium/tt26681810/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26681810/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
       "id": "tt34888946",
       "type": "movie",
       "name": "The Flying Fercos",
@@ -2206,19 +2193,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt34888946/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
-      "id": "tt33060102",
-      "type": "movie",
-      "name": "Men of War",
-      "poster": "https://images.metahub.space/poster/medium/tt33060102/img",
-      "background": "https://images.metahub.space/background/medium/tt33060102/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33060102/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
       "genres": [
         "Documentary"
       ]
@@ -2250,6 +2224,58 @@
       ]
     },
     {
+      "id": "tt0070379",
+      "type": "movie",
+      "name": "Mean Streets",
+      "poster": "https://images.metahub.space/poster/medium/tt0070379/img",
+      "background": "https://images.metahub.space/background/medium/tt0070379/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0070379/img",
+      "posterShape": "poster",
+      "releaseInfo": "1973",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt13170092",
+      "type": "movie",
+      "name": "Rosebud Lane",
+      "poster": "https://images.metahub.space/poster/medium/tt13170092/img",
+      "background": "https://images.metahub.space/background/medium/tt13170092/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13170092/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0060665",
+      "type": "movie",
+      "name": "A Man for All Seasons (1966)",
+      "poster": "https://images.metahub.space/poster/medium/tt0060665/img",
+      "background": "https://images.metahub.space/background/medium/tt0060665/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0060665/img",
+      "posterShape": "poster",
+      "releaseInfo": "1966",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0041113",
+      "type": "movie",
+      "name": "All the King's Men",
+      "poster": "https://images.metahub.space/poster/medium/tt0041113/img",
+      "background": "https://images.metahub.space/background/medium/tt0041113/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0041113/img",
+      "posterShape": "poster",
+      "releaseInfo": "1949",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0047296",
       "type": "movie",
       "name": "On the Waterfront",
@@ -2258,6 +2284,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0047296/img",
       "posterShape": "poster",
       "releaseInfo": "1954",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0167404",
+      "type": "movie",
+      "name": "The Sixth Sense",
+      "poster": "https://images.metahub.space/poster/medium/tt0167404/img",
+      "background": "https://images.metahub.space/background/medium/tt0167404/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0167404/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999",
       "genres": [
         "Drama"
       ]
@@ -2297,6 +2336,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0098384/img",
       "posterShape": "poster",
       "releaseInfo": "1989",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0482571",
+      "type": "movie",
+      "name": "The Prestige",
+      "poster": "https://images.metahub.space/poster/medium/tt0482571/img",
+      "background": "https://images.metahub.space/background/medium/tt0482571/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0482571/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006",
       "genres": [
         "Drama"
       ]
@@ -2354,6 +2406,32 @@
       ]
     },
     {
+      "id": "tt0088939",
+      "type": "movie",
+      "name": "The Color Purple",
+      "poster": "https://images.metahub.space/poster/medium/tt0088939/img",
+      "background": "https://images.metahub.space/background/medium/tt0088939/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088939/img",
+      "posterShape": "poster",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt13238346",
+      "type": "movie",
+      "name": "Past Lives",
+      "poster": "https://images.metahub.space/poster/medium/tt13238346/img",
+      "background": "https://images.metahub.space/background/medium/tt13238346/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13238346/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0070666",
       "type": "movie",
       "name": "Serpico",
@@ -2375,6 +2453,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0084434/img",
       "posterShape": "poster",
       "releaseInfo": "1982",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0048028",
+      "type": "movie",
+      "name": "East of Eden",
+      "poster": "https://images.metahub.space/poster/medium/tt0048028/img",
+      "background": "https://images.metahub.space/background/medium/tt0048028/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0048028/img",
+      "posterShape": "poster",
+      "releaseInfo": "1955",
       "genres": [
         "Drama"
       ]
@@ -2440,6 +2531,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt15836468/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0061512",
+      "type": "movie",
+      "name": "Cool Hand Luke",
+      "poster": "https://images.metahub.space/poster/medium/tt0061512/img",
+      "background": "https://images.metahub.space/background/medium/tt0061512/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0061512/img",
+      "posterShape": "poster",
+      "releaseInfo": "1967",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0048545",
+      "type": "movie",
+      "name": "Rebel Without a Cause",
+      "poster": "https://images.metahub.space/poster/medium/tt0048545/img",
+      "background": "https://images.metahub.space/background/medium/tt0048545/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0048545/img",
+      "posterShape": "poster",
+      "releaseInfo": "1955",
       "genres": [
         "Drama"
       ]
@@ -2562,185 +2679,42 @@
       ]
     },
     {
-      "id": "tt0049261",
+      "id": "tt0056592",
       "type": "movie",
-      "name": "Giant (1956)",
-      "poster": "https://images.metahub.space/poster/medium/tt0049261/img",
-      "background": "https://images.metahub.space/background/medium/tt0049261/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0049261/img",
+      "name": "To Kill a Mockingbird",
+      "poster": "https://images.metahub.space/poster/medium/tt0056592/img",
+      "background": "https://images.metahub.space/background/medium/tt0056592/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0056592/img",
       "posterShape": "poster",
-      "releaseInfo": "1956",
+      "releaseInfo": "1962",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt0993846",
+      "id": "tt12444934",
       "type": "movie",
-      "name": "The Wolf of Wall Street",
-      "poster": "https://images.metahub.space/poster/medium/tt0993846/img",
-      "background": "https://images.metahub.space/background/medium/tt0993846/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0993846/img",
+      "name": "Devil's Workshop",
+      "poster": "https://images.metahub.space/poster/medium/tt12444934/img",
+      "background": "https://images.metahub.space/background/medium/tt12444934/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12444934/img",
       "posterShape": "poster",
-      "releaseInfo": "2013",
+      "releaseInfo": "2022",
       "genres": [
-        "Drama"
+        "Horror"
       ]
     },
     {
-      "id": "tt0082970",
+      "id": "tt23468450",
       "type": "movie",
-      "name": "Ragtime",
-      "poster": "https://images.metahub.space/poster/medium/tt0082970/img",
-      "background": "https://images.metahub.space/background/medium/tt0082970/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0082970/img",
+      "name": "Longlegs",
+      "poster": "https://images.metahub.space/poster/medium/tt23468450/img",
+      "background": "https://images.metahub.space/background/medium/tt23468450/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23468450/img",
       "posterShape": "poster",
-      "releaseInfo": "1981",
+      "releaseInfo": "2024",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0052561",
-      "type": "movie",
-      "name": "Anatomy of a Murder",
-      "poster": "https://images.metahub.space/poster/medium/tt0052561/img",
-      "background": "https://images.metahub.space/background/medium/tt0052561/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0052561/img",
-      "posterShape": "poster",
-      "releaseInfo": "1959",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0090329",
-      "type": "movie",
-      "name": "Witness",
-      "poster": "https://images.metahub.space/poster/medium/tt0090329/img",
-      "background": "https://images.metahub.space/background/medium/tt0090329/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0090329/img",
-      "posterShape": "poster",
-      "releaseInfo": "1999",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1210166",
-      "type": "movie",
-      "name": "Moneyball",
-      "poster": "https://images.metahub.space/poster/medium/tt1210166/img",
-      "background": "https://images.metahub.space/background/medium/tt1210166/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1210166/img",
-      "posterShape": "poster",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1485796",
-      "type": "movie",
-      "name": "The Greatest Showman",
-      "poster": "https://images.metahub.space/poster/medium/tt1485796/img",
-      "background": "https://images.metahub.space/background/medium/tt1485796/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1485796/img",
-      "posterShape": "poster",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5340300",
-      "type": "movie",
-      "name": "Lean On Pete",
-      "poster": "https://images.metahub.space/poster/medium/tt5340300/img",
-      "background": "https://images.metahub.space/background/medium/tt5340300/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5340300/img",
-      "posterShape": "poster",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt4555426",
-      "type": "movie",
-      "name": "Darkest Hour",
-      "poster": "https://images.metahub.space/poster/medium/tt4555426/img",
-      "background": "https://images.metahub.space/background/medium/tt4555426/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4555426/img",
-      "posterShape": "poster",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7504726",
-      "type": "movie",
-      "name": "The Call of the Wild",
-      "poster": "https://images.metahub.space/poster/medium/tt7504726/img",
-      "background": "https://images.metahub.space/background/medium/tt7504726/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7504726/img",
-      "posterShape": "poster",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0116462",
-      "type": "movie",
-      "name": "Who's the Woman, Who's the Man",
-      "poster": "https://images.metahub.space/poster/medium/tt0116462/img",
-      "background": "https://images.metahub.space/background/medium/tt0116462/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0116462/img",
-      "posterShape": "poster",
-      "releaseInfo": "1996",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0369339",
-      "type": "movie",
-      "name": "Collateral",
-      "poster": "https://images.metahub.space/poster/medium/tt0369339/img",
-      "background": "https://images.metahub.space/background/medium/tt0369339/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0369339/img",
-      "posterShape": "poster",
-      "releaseInfo": "2004",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0210945",
-      "type": "movie",
-      "name": "Remember the Titans",
-      "poster": "https://images.metahub.space/poster/medium/tt0210945/img",
-      "background": "https://images.metahub.space/background/medium/tt0210945/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0210945/img",
-      "posterShape": "poster",
-      "releaseInfo": "2000",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0091763",
-      "type": "movie",
-      "name": "Platoon",
-      "poster": "https://images.metahub.space/poster/medium/tt0091763/img",
-      "background": "https://images.metahub.space/background/medium/tt0091763/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0091763/img",
-      "posterShape": "poster",
-      "releaseInfo": "1986",
-      "genres": [
-        "Drama"
+        "Horror"
       ]
     },
     {
@@ -2913,6 +2887,19 @@
       ]
     },
     {
+      "id": "tt0021884",
+      "type": "movie",
+      "name": "Frankenstein (1931)",
+      "poster": "https://images.metahub.space/poster/medium/tt0021884/img",
+      "background": "https://images.metahub.space/background/medium/tt0021884/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0021884/img",
+      "posterShape": "poster",
+      "releaseInfo": "1931",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
       "id": "tt10245776",
       "type": "movie",
       "name": "The Canyonlands",
@@ -2965,6 +2952,19 @@
       ]
     },
     {
+      "id": "tt0144084",
+      "type": "movie",
+      "name": "American Psycho (Uncut Version)",
+      "poster": "https://images.metahub.space/poster/medium/tt0144084/img",
+      "background": "https://images.metahub.space/background/medium/tt0144084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0144084/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
       "id": "tt5273720",
       "type": "movie",
       "name": "All the Creatures Were Stirring",
@@ -2973,6 +2973,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt5273720/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt7798634",
+      "type": "movie",
+      "name": "Ready or Not",
+      "poster": "https://images.metahub.space/poster/medium/tt7798634/img",
+      "background": "https://images.metahub.space/background/medium/tt7798634/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7798634/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
       "genres": [
         "Horror"
       ]
@@ -3264,45 +3277,6 @@
       ]
     },
     {
-      "id": "tt19896150",
-      "type": "movie",
-      "name": "The Angry Black Girl and Her Monster",
-      "poster": "https://images.metahub.space/poster/medium/tt19896150/img",
-      "background": "https://images.metahub.space/background/medium/tt19896150/img",
-      "logo": "https://images.metahub.space/logo/medium/tt19896150/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt15846876",
-      "type": "movie",
-      "name": "Trim Season",
-      "poster": "https://images.metahub.space/poster/medium/tt15846876/img",
-      "background": "https://images.metahub.space/background/medium/tt15846876/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15846876/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt22050990",
-      "type": "movie",
-      "name": "Dead Teenagers",
-      "poster": "https://images.metahub.space/poster/medium/tt22050990/img",
-      "background": "https://images.metahub.space/background/medium/tt22050990/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22050990/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt22814692",
       "type": "movie",
       "name": "Holiday Harmony",
@@ -3459,12 +3433,51 @@
       ]
     },
     {
+      "id": "tt14849194",
+      "type": "movie",
+      "name": "The Holdovers",
+      "poster": "https://images.metahub.space/poster/medium/tt14849194/img",
+      "background": "https://images.metahub.space/background/medium/tt14849194/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14849194/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Independent"
+      ]
+    },
+    {
+      "id": "tt6053438",
+      "type": "movie",
+      "name": "First Reformed",
+      "poster": "https://images.metahub.space/poster/medium/tt6053438/img",
+      "background": "https://images.metahub.space/background/medium/tt6053438/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6053438/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Independent"
+      ]
+    },
+    {
       "id": "tt11400902",
       "type": "movie",
       "name": "A Banquet",
       "poster": "https://images.metahub.space/poster/medium/tt11400902/img",
       "background": "https://images.metahub.space/background/medium/tt11400902/img",
       "logo": "https://images.metahub.space/logo/medium/tt11400902/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Independent"
+      ]
+    },
+    {
+      "id": "tt5151570",
+      "type": "movie",
+      "name": "Mrs. Harris Goes to Paris",
+      "poster": "https://images.metahub.space/poster/medium/tt5151570/img",
+      "background": "https://images.metahub.space/background/medium/tt5151570/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5151570/img",
       "posterShape": "poster",
       "releaseInfo": "2022",
       "genres": [
@@ -3498,12 +3511,77 @@
       ]
     },
     {
+      "id": "tt0118617",
+      "type": "movie",
+      "name": "Anastasia (1997)",
+      "poster": "https://images.metahub.space/poster/medium/tt0118617/img",
+      "background": "https://images.metahub.space/background/medium/tt0118617/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0118617/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0477347",
+      "type": "movie",
+      "name": "Night At the Museum",
+      "poster": "https://images.metahub.space/poster/medium/tt0477347/img",
+      "background": "https://images.metahub.space/background/medium/tt0477347/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0477347/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt22207152",
+      "type": "movie",
+      "name": "A Christmas Mystery",
+      "poster": "https://images.metahub.space/poster/medium/tt22207152/img",
+      "background": "https://images.metahub.space/background/medium/tt22207152/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22207152/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
       "id": "tt0892791",
       "type": "movie",
       "name": "Shrek Forever After",
       "poster": "https://images.metahub.space/poster/medium/tt0892791/img",
       "background": "https://images.metahub.space/background/medium/tt0892791/img",
       "logo": "https://images.metahub.space/logo/medium/tt0892791/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0084237",
+      "type": "movie",
+      "name": "The Last Unicorn",
+      "poster": "https://images.metahub.space/poster/medium/tt0084237/img",
+      "background": "https://images.metahub.space/background/medium/tt0084237/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0084237/img",
+      "posterShape": "poster",
+      "releaseInfo": "1982",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt1323594",
+      "type": "movie",
+      "name": "Despicable Me",
+      "poster": "https://images.metahub.space/poster/medium/tt1323594/img",
+      "background": "https://images.metahub.space/background/medium/tt1323594/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1323594/img",
       "posterShape": "poster",
       "releaseInfo": "2010",
       "genres": [
@@ -3550,6 +3628,19 @@
       ]
     },
     {
+      "id": "tt4302938",
+      "type": "movie",
+      "name": "Kubo and the Two Strings",
+      "poster": "https://images.metahub.space/poster/medium/tt4302938/img",
+      "background": "https://images.metahub.space/background/medium/tt4302938/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4302938/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
       "id": "tt0042332",
       "type": "movie",
       "name": "Cinderella (1950)",
@@ -3558,6 +3649,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0042332/img",
       "posterShape": "poster",
       "releaseInfo": "1950",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
+      "id": "tt0787474",
+      "type": "movie",
+      "name": "The Boxtrolls",
+      "poster": "https://images.metahub.space/poster/medium/tt0787474/img",
+      "background": "https://images.metahub.space/background/medium/tt0787474/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0787474/img",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
       "genres": [
         "Kids & Family"
       ]
@@ -3940,32 +4044,6 @@
       ]
     },
     {
-      "id": "tt27155038",
-      "type": "movie",
-      "name": "Ruby Gillman, Teenage Kraken",
-      "poster": "https://images.metahub.space/poster/medium/tt27155038/img",
-      "background": "https://images.metahub.space/background/medium/tt27155038/img",
-      "logo": "https://images.metahub.space/logo/medium/tt27155038/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt3661394",
-      "type": "movie",
-      "name": "The One and Only Ivan",
-      "poster": "https://images.metahub.space/poster/medium/tt3661394/img",
-      "background": "https://images.metahub.space/background/medium/tt3661394/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3661394/img",
-      "posterShape": "poster",
-      "releaseInfo": "2020",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
       "id": "tt8696966",
       "type": "movie",
       "name": "Long Live Rock: Celebrate the Chaos",
@@ -4002,6 +4080,19 @@
       "releaseInfo": "2024",
       "genres": [
         "Music Documentaries"
+      ]
+    },
+    {
+      "id": "tt0286106",
+      "type": "movie",
+      "name": "Signs",
+      "poster": "https://images.metahub.space/poster/medium/tt0286106/img",
+      "background": "https://images.metahub.space/background/medium/tt0286106/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0286106/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002",
+      "genres": [
+        "Sci-Fi & Fantasy"
       ]
     },
     {
@@ -4083,6 +4174,19 @@
       ]
     },
     {
+      "id": "tt3659388",
+      "type": "movie",
+      "name": "The Martian",
+      "poster": "https://images.metahub.space/poster/medium/tt3659388/img",
+      "background": "https://images.metahub.space/background/medium/tt3659388/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3659388/img",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
       "id": "tt3139086",
       "type": "movie",
       "name": "Batman: Assault On Arkham",
@@ -4135,6 +4239,19 @@
       ]
     },
     {
+      "id": "tt0099487",
+      "type": "movie",
+      "name": "Edward Scissorhands",
+      "poster": "https://images.metahub.space/poster/medium/tt0099487/img",
+      "background": "https://images.metahub.space/background/medium/tt0099487/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0099487/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
       "id": "tt0120201",
       "type": "movie",
       "name": "Starship Troopers",
@@ -4143,6 +4260,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt0120201/img",
       "posterShape": "poster",
       "releaseInfo": "1997",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt0470752",
+      "type": "movie",
+      "name": "Ex Machina",
+      "poster": "https://images.metahub.space/poster/medium/tt0470752/img",
+      "background": "https://images.metahub.space/background/medium/tt0470752/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0470752/img",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt6017942",
+      "type": "movie",
+      "name": "Kin",
+      "poster": "https://images.metahub.space/poster/medium/tt6017942/img",
+      "background": "https://images.metahub.space/background/medium/tt6017942/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6017942/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4221,6 +4364,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt14966324/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tt14230458",
+      "type": "movie",
+      "name": "Poor Things",
+      "poster": "https://images.metahub.space/poster/medium/tt14230458/img",
+      "background": "https://images.metahub.space/background/medium/tt14230458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14230458/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
       "genres": [
         "Sci-Fi & Fantasy"
       ]
@@ -4434,6 +4590,19 @@
       ]
     },
     {
+      "id": "tt12531856",
+      "type": "movie",
+      "name": "The American",
+      "poster": "https://images.metahub.space/poster/medium/tt12531856/img",
+      "background": "https://images.metahub.space/background/medium/tt12531856/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12531856/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt21991654",
       "type": "movie",
       "name": "Sympathy for the Devil",
@@ -4499,6 +4668,19 @@
       ]
     },
     {
+      "id": "tt0073195",
+      "type": "movie",
+      "name": "Jaws",
+      "poster": "https://images.metahub.space/poster/medium/tt0073195/img",
+      "background": "https://images.metahub.space/background/medium/tt0073195/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0073195/img",
+      "posterShape": "poster",
+      "releaseInfo": "1975",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt0097770",
       "type": "movie",
       "name": "Lock Up",
@@ -4533,19 +4715,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt6610158/img",
       "posterShape": "poster",
       "releaseInfo": "2019",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt1189340",
-      "type": "movie",
-      "name": "The Lincoln Lawyer",
-      "poster": "https://images.metahub.space/poster/medium/tt1189340/img",
-      "background": "https://images.metahub.space/background/medium/tt1189340/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1189340/img",
-      "posterShape": "poster",
-      "releaseInfo": "2011",
       "genres": [
         "Thriller"
       ]
@@ -4720,6 +4889,19 @@
       ]
     },
     {
+      "id": "tt17351924",
+      "type": "movie",
+      "name": "Saltburn",
+      "poster": "https://images.metahub.space/poster/medium/tt17351924/img",
+      "background": "https://images.metahub.space/background/medium/tt17351924/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17351924/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt15669314",
       "type": "movie",
       "name": "The Listener",
@@ -4811,6 +4993,19 @@
       ]
     },
     {
+      "id": "tt20202324",
+      "type": "movie",
+      "name": "Magpie",
+      "poster": "https://images.metahub.space/poster/medium/tt20202324/img",
+      "background": "https://images.metahub.space/background/medium/tt20202324/img",
+      "logo": "https://images.metahub.space/logo/medium/tt20202324/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt33764148",
       "type": "movie",
       "name": "Mind Wave",
@@ -4876,12 +5071,38 @@
       ]
     },
     {
+      "id": "tt23149780",
+      "type": "movie",
+      "name": "Eden",
+      "poster": "https://images.metahub.space/poster/medium/tt23149780/img",
+      "background": "https://images.metahub.space/background/medium/tt23149780/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23149780/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt28628125",
       "type": "movie",
       "name": "Motherland",
       "poster": "https://images.metahub.space/poster/medium/tt28628125/img",
       "background": "https://images.metahub.space/background/medium/tt28628125/img",
       "logo": "https://images.metahub.space/logo/medium/tt28628125/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt36491653",
+      "type": "movie",
+      "name": "It Was Just an Accident",
+      "poster": "https://images.metahub.space/poster/medium/tt36491653/img",
+      "background": "https://images.metahub.space/background/medium/tt36491653/img",
+      "logo": "https://images.metahub.space/logo/medium/tt36491653/img",
       "posterShape": "poster",
       "releaseInfo": "2025",
       "genres": [
@@ -4915,71 +5136,6 @@
       ]
     },
     {
-      "id": "tt32792934",
-      "type": "movie",
-      "name": "The Plague",
-      "poster": "https://images.metahub.space/poster/medium/tt32792934/img",
-      "background": "https://images.metahub.space/background/medium/tt32792934/img",
-      "logo": "https://images.metahub.space/logo/medium/tt32792934/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt33479805",
-      "type": "movie",
-      "name": "Killer Whale",
-      "poster": "https://images.metahub.space/poster/medium/tt33479805/img",
-      "background": "https://images.metahub.space/background/medium/tt33479805/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33479805/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt15181326",
-      "type": "movie",
-      "name": "Dead Man's Wire",
-      "poster": "https://images.metahub.space/poster/medium/tt15181326/img",
-      "background": "https://images.metahub.space/background/medium/tt15181326/img",
-      "logo": "https://images.metahub.space/logo/medium/tt15181326/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt26470786",
-      "type": "movie",
-      "name": "The Cure",
-      "poster": "https://images.metahub.space/poster/medium/tt26470786/img",
-      "background": "https://images.metahub.space/background/medium/tt26470786/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26470786/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt33303521",
-      "type": "movie",
-      "name": "The Gates",
-      "poster": "https://images.metahub.space/poster/medium/tt33303521/img",
-      "background": "https://images.metahub.space/background/medium/tt33303521/img",
-      "logo": "https://images.metahub.space/logo/medium/tt33303521/img",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0044706",
       "type": "movie",
       "name": "High Noon",
@@ -4988,6 +5144,19 @@
       "logo": "https://images.metahub.space/logo/medium/tt0044706/img",
       "posterShape": "poster",
       "releaseInfo": "1952",
+      "genres": [
+        "Western"
+      ]
+    },
+    {
+      "id": "tt0105695",
+      "type": "movie",
+      "name": "Unforgiven",
+      "poster": "https://images.metahub.space/poster/medium/tt0105695/img",
+      "background": "https://images.metahub.space/background/medium/tt0105695/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0105695/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993",
       "genres": [
         "Western"
       ]
@@ -5006,6 +5175,19 @@
       ]
     },
     {
+      "id": "tt22773644",
+      "type": "movie",
+      "name": "The Dead Don't Hurt",
+      "poster": "https://images.metahub.space/poster/medium/tt22773644/img",
+      "background": "https://images.metahub.space/background/medium/tt22773644/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22773644/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Western"
+      ]
+    },
+    {
       "id": "tt0064782",
       "type": "movie",
       "name": "Paint Your Wagon",
@@ -5014,6 +5196,32 @@
       "logo": "https://images.metahub.space/logo/medium/tt0064782/img",
       "posterShape": "poster",
       "releaseInfo": "1969",
+      "genres": [
+        "Musicals"
+      ]
+    },
+    {
+      "id": "tt1707386",
+      "type": "movie",
+      "name": "Les Mis\u00e9rables (2012)",
+      "poster": "https://images.metahub.space/poster/medium/tt1707386/img",
+      "background": "https://images.metahub.space/background/medium/tt1707386/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1707386/img",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
+      "genres": [
+        "Musicals"
+      ]
+    },
+    {
+      "id": "tt0045152",
+      "type": "movie",
+      "name": "Singin' In the Rain",
+      "poster": "https://images.metahub.space/poster/medium/tt0045152/img",
+      "background": "https://images.metahub.space/background/medium/tt0045152/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0045152/img",
+      "posterShape": "poster",
+      "releaseInfo": "1952",
       "genres": [
         "Musicals"
       ]
@@ -5040,19 +5248,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt3783958/img",
       "posterShape": "poster",
       "releaseInfo": "2016",
-      "genres": [
-        "Musicals"
-      ]
-    },
-    {
-      "id": "tt3581652",
-      "type": "movie",
-      "name": "West Side Story (2021)",
-      "poster": "https://images.metahub.space/poster/medium/tt3581652/img",
-      "background": "https://images.metahub.space/background/medium/tt3581652/img",
-      "logo": "https://images.metahub.space/logo/medium/tt3581652/img",
-      "posterShape": "poster",
-      "releaseInfo": "2021",
       "genres": [
         "Musicals"
       ]
