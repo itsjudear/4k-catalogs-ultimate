@@ -755,19 +755,6 @@
       ]
     },
     {
-      "id": "tt16311594",
-      "type": "movie",
-      "name": "F1: The Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt16311594/img",
-      "background": "https://images.metahub.space/background/medium/tt16311594/img",
-      "logo": "https://images.metahub.space/logo/medium/tt16311594/img",
-      "posterShape": "poster",
-      "releaseInfo": "2025",
-      "genres": [
-        "Action & Adventure"
-      ]
-    },
-    {
       "id": "tt21317634",
       "type": "movie",
       "name": "Bride Hard",
@@ -930,6 +917,19 @@
       "poster": "https://images.metahub.space/poster/medium/tt19319352/img",
       "background": "https://images.metahub.space/background/medium/tt19319352/img",
       "logo": "https://images.metahub.space/logo/medium/tt19319352/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action & Adventure"
+      ]
+    },
+    {
+      "id": "tt17048368",
+      "type": "movie",
+      "name": "The Bricklayer",
+      "poster": "https://images.metahub.space/poster/medium/tt17048368/img",
+      "background": "https://images.metahub.space/background/medium/tt17048368/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17048368/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "genres": [
@@ -3407,6 +3407,19 @@
       ]
     },
     {
+      "id": "tt0092106",
+      "type": "movie",
+      "name": "The Transformers: The Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0092106/img",
+      "background": "https://images.metahub.space/background/medium/tt0092106/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092106/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
       "id": "tt4302938",
       "type": "movie",
       "name": "Kubo and the Two Strings",
@@ -3550,6 +3563,19 @@
       ]
     },
     {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline",
+      "poster": "https://images.metahub.space/poster/medium/tt0327597/img",
+      "background": "https://images.metahub.space/background/medium/tt0327597/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
+      "posterShape": "poster",
+      "releaseInfo": "2009",
+      "genres": [
+        "Kids & Family"
+      ]
+    },
+    {
       "id": "tt0413267",
       "type": "movie",
       "name": "Shrek the Third",
@@ -3597,32 +3623,6 @@
       "logo": "https://images.metahub.space/logo/medium/tt0298148/img",
       "posterShape": "poster",
       "releaseInfo": "2004",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0275847",
-      "type": "movie",
-      "name": "Lilo & Stitch",
-      "poster": "https://images.metahub.space/poster/medium/tt0275847/img",
-      "background": "https://images.metahub.space/background/medium/tt0275847/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0275847/img",
-      "posterShape": "poster",
-      "releaseInfo": "2002",
-      "genres": [
-        "Kids & Family"
-      ]
-    },
-    {
-      "id": "tt0198781",
-      "type": "movie",
-      "name": "Monsters, Inc.",
-      "poster": "https://images.metahub.space/poster/medium/tt0198781/img",
-      "background": "https://images.metahub.space/background/medium/tt0198781/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0198781/img",
-      "posterShape": "poster",
-      "releaseInfo": "2001",
       "genres": [
         "Kids & Family"
       ]
