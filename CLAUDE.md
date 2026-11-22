@@ -19,13 +19,17 @@ docs/manifest.json                     # addon manifest -> this URL goes into Nu
 docs/catalog/movie/cc-4k-movies.json   # catalog: "Movies in 4K"
 docs/catalog/movie/cc-4k-upgraded.json # catalog: "Upgraded to 4K" (full list, newest upgrade first)
 docs/catalog/movie/cc-4k-upgraded-30d.json   # catalog: "Upgraded: Last 30 Days"
-docs/catalog/movie/cc-4k-upgraded-YYYY.json  # catalogs: "Upgraded in YYYY", one per year (2018-now)
+docs/catalog/movie/cc-4k-upgraded-YYYY.json  # catalog: "Upgraded in 2026" (only years in YEAR_CATALOGS)
 docs/catalog/movie/cc-4k-new.json      # catalog: "Just Released"
 .github/workflows/update-catalog.yml   # daily rebuild, 06:00 UTC
 ```
 
-The dated upgrade catalogs are discovered from disk when the manifest is written, so a new
-year's catalog appears on its own and nothing needs editing in January.
+The per-year catalogs are limited to the years listed in `YEAR_CATALOGS` (currently just
+2026, by request; the user found the full 2018-2026 set too long). A year not in that tuple
+gets no file and no manifest entry, and its stale file is deleted on the next upgrade-family
+build. **Nothing rolls over automatically**: in January, add 2027 to the tuple. Re-adding an
+older year is the same one-line edit. The dated entries are discovered from disk when the
+manifest is written, restricted to those years.
 
 Everything in `docs/` is **generated**. Never hand-edit it — change `build_catalog.py`
 and re-run.
@@ -200,7 +204,7 @@ whatever shape it actually writes. Don't assume the above is right.
   matched the date shown on the site for Baby Boy (2026-11-18), and "Last 30 Days" compares
   dates only, so a few hours of skew at the boundary is possible and harmless.
 - Titles upgraded before ~2018-06 are not in the `4KUpgraded` list, so they appear in no
-  dated catalog. (Bad Boys, for example, is absent from it.)
+  dated catalog (and with only 2026 published, 2018-2025 upgrades appear only in the full list). (Bad Boys, for example, is absent from it.)
 
 ---
 

@@ -75,6 +75,7 @@ UPGRADED_ID = "cc-4k-upgraded"
 PAGE_SIZE = 50        # OfferList caps a page at 50 rows
 MAX_PAGES = 100       # hard stop; ~1,900 rows exist today, so 5,000 is far beyond the end
 UPGRADED_MIN = 1000   # floor for the full upgrade list (~1,870 today); below = endpoint broken
+YEAR_CATALOGS = (2026,)   # per-year "Upgraded in YYYY" catalogs to publish; add a year here to bring it back
 RECENT_DAYS = 30      # window for the "Last 30 Days" catalog
 
 # Env overrides, handy for quick local runs and for building one catalog at a time:
@@ -260,7 +261,7 @@ def collect_upgraded():
 
 
 def group_upgraded(rows):
-    """Split rows into {catalog_id: rows}: Last 30 Days plus one bucket per year."""
+    """Split rows into {catalog_id: rows}: Last 30 Days plus one bucket per year in YEAR_CATALOGS."""
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=RECENT_DAYS)).isoformat()
     groups = {f"{UPGRADED_ID}-30d": []}
     for row in rows:
@@ -269,7 +270,8 @@ def group_upgraded(rows):
             continue                      # undated rows stay in the main catalog only
         if stamp[:10] >= cutoff:
             groups[f"{UPGRADED_ID}-30d"].append(row)
-        groups.setdefault(f"{UPGRADED_ID}-{stamp[:4]}", []).append(row)
+        if int(stamp[:4]) in YEAR_CATALOGS:
+            groups.setdefault(f"{UPGRADED_ID}-{stamp[:4]}", []).append(row)
     return groups
 
 
@@ -288,7 +290,7 @@ def build_upgraded_family():
             json.dumps({"metas": [to_meta(r) for r in grows]}, indent=2))
         print(f"  -> {len(grows):4} titles ({cid})")
 
-    # Drop year files that no longer have any titles, so the manifest can't list an empty year.
+    # Drop year files that are no longer wanted (or have no titles), so the manifest can't list them.
     for path in folder.glob(f"{UPGRADED_ID}-[0-9][0-9][0-9][0-9].json"):
         if path.stem not in groups:
             path.unlink()
@@ -308,7 +310,8 @@ def dated_catalog_specs():
         specs.append({"id": f"{UPGRADED_ID}-30d", "name": "Upgraded: Last 30 Days"})
     years = sorted(
         (int(p.stem.rsplit("-", 1)[1])
-         for p in folder.glob(f"{UPGRADED_ID}-[0-9][0-9][0-9][0-9].json")),
+         for p in folder.glob(f"{UPGRADED_ID}-[0-9][0-9][0-9][0-9].json")
+         if int(p.stem.rsplit("-", 1)[1]) in YEAR_CATALOGS),
         reverse=True,
     )
     specs += [{"id": f"{UPGRADED_ID}-{y}", "name": f"Upgraded in {y}"} for y in years]

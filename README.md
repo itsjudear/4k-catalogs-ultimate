@@ -8,10 +8,11 @@ pages:
 | **Movies in 4K** | `cc-4k-movies` | 4K movies, most popular first |
 | **Upgraded to 4K** | `cc-4k-upgraded` | Every title CheapCharts lists as upgraded to 4K, most recent upgrade first |
 | **Upgraded: Last 30 Days** | `cc-4k-upgraded-30d` | Only the upgrades from the last 30 days |
-| **Upgraded in 2026**, **2025**, … | `cc-4k-upgraded-YYYY` | One catalog per year of upgrades (2018 to now), most recent first |
+| **Upgraded in 2026** | `cc-4k-upgraded-2026` | Upgrades from 2026 only, most recent first |
 | **Just Released** | `cc-4k-new` | 4K movies by release date, newest first |
 
-The per-year catalogs are created automatically, so a new year's catalog appears by itself.
+Only 2026 is published as a per-year catalog. Other years are switched on by listing them in
+`YEAR_CATALOGS` in `build_catalog.py`; a new year is not added automatically.
 
 Each entry carries **title and artwork only** — poster, background and logo. No pricing.
 
@@ -27,7 +28,7 @@ No server, no API keys, no cost.
 - `docs/manifest.json` — the addon manifest you paste into Nuvio
 - `docs/catalog/movie/cc-4k-movies.json` — the 4K movies catalog
 - `docs/catalog/movie/cc-4k-upgraded.json` — the upgrades catalog
-- `docs/catalog/movie/cc-4k-upgraded-30d.json` and `cc-4k-upgraded-YYYY.json` — the dated upgrade catalogs
+- `docs/catalog/movie/cc-4k-upgraded-30d.json` and `cc-4k-upgraded-2026.json` — the dated upgrade catalogs
 - `build_catalog.py` — regenerates all of the above from the live API
 - `.github/workflows/update-catalog.yml` — daily rebuild at 06:00 UTC
 
@@ -136,6 +137,7 @@ files are both generated from that list. For example, a highly-rated-only catalo
   breaks, the daily run falls back to the documented API, keeps the existing catalogs and
   prints a warning; the upgrade catalogs then stop updating until it's fixed.
 - **Upgrades before mid-2018 aren't listed** by CheapCharts, so they appear in no dated catalog.
+- **Only 2026 has a per-year catalog.** Earlier years are still in the full *Upgraded to 4K* list.
 - **Movies in 4K and Just Released are drawn from the deals endpoint**, so they lean
   towards titles currently on sale. That isn't a complete inventory of every 4K title.
 - **The deals endpoint caps every response at 50 items with no paging.** The script works
