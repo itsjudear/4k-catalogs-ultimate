@@ -1,8 +1,8 @@
 {
   "id": "com.dude.cheapcharts.4ksale",
-  "version": "1.0.20261121",
+  "version": "1.0.20261122",
   "name": "iTunes 4K",
-  "description": "4K movies on the Apple TV / iTunes US store, and those recently upgraded to 4K. Data from CheapCharts. Last updated 2026-11-21 (843 cc-4k-movies, 473 cc-4k-upgraded, 389 cc-4k-new).",
+  "description": "4K movies on the Apple TV / iTunes US store, and those recently upgraded to 4K. Data from CheapCharts. Last updated 2026-11-22 (843 cc-4k-movies, 1873 cc-4k-upgraded, 389 cc-4k-new).",
   "logo": "https://images.metahub.space/logo/medium/tt0468569/img",
   "resources": [
     "catalog"
@@ -23,6 +23,56 @@
       "type": "movie",
       "id": "cc-4k-upgraded",
       "name": "Upgraded to 4K"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-30d",
+      "name": "Upgraded: Last 30 Days"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2026",
+      "name": "Upgraded in 2026"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2025",
+      "name": "Upgraded in 2025"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2024",
+      "name": "Upgraded in 2024"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2023",
+      "name": "Upgraded in 2023"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2022",
+      "name": "Upgraded in 2022"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2021",
+      "name": "Upgraded in 2021"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2020",
+      "name": "Upgraded in 2020"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2019",
+      "name": "Upgraded in 2019"
+    },
+    {
+      "type": "movie",
+      "id": "cc-4k-upgraded-2018",
+      "name": "Upgraded in 2018"
     },
     {
       "type": "movie",

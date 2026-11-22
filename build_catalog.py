@@ -16,10 +16,14 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 API = "https://buster.cheapcharts.de/v1/gptapi/Deals.php"
+# Undocumented backend behind the CheapCharts site (the public API echoes it in
+# its own `originRequest` field). Unlike Deals.php it supports `offset` paging,
+# a `listType` selector, and returns a `turned4K` timestamp on every row.
+OFFERLIST = "https://buster.cheapcharts.de/v1/OfferList.php"
 OUT = Path(__file__).parent / "docs"
 
 # Two catalogs, mirroring the two CheapCharts pages.
@@ -28,9 +32,11 @@ OUT = Path(__file__).parent / "docs"
 #   order="price"  -> re-sort cheapest first (kept as an option; unused by default,
 #                     since we no longer surface pricing)
 #
-# Note on "upgraded": sort=turned4K is a genuine sort parameter - an invalid
-# sort name returns an empty result, this one returns a distinct ordering led
-# by catalog titles. The API does not return the turned4K *date*, only the order.
+# Note on "upgraded": the primary path is OfferList.php?listType=4KUpgraded (see
+# build_upgraded_family), which pages the *entire* upgrade list with real dates and
+# also yields the "Last 30 Days" and per-year catalogs. The Deals.php `sorts`
+# below are only the fallback if that endpoint fails; Deals.php never returns the
+# turned4K date and only lists titles currently on sale.
 CATALOGS = [
     {
         "id": "cc-4k-movies",
@@ -65,6 +71,12 @@ GENRES = [
 REQUEST_DELAY = 1.0   # seconds between calls; the endpoint returns 429 if pushed
 MIN_TITLES = 150      # sanity floor - below this we assume the API is broken
 
+UPGRADED_ID = "cc-4k-upgraded"
+PAGE_SIZE = 50        # OfferList caps a page at 50 rows
+MAX_PAGES = 100       # hard stop; ~1,900 rows exist today, so 5,000 is far beyond the end
+UPGRADED_MIN = 1000   # floor for the full upgrade list (~1,870 today); below = endpoint broken
+RECENT_DAYS = 30      # window for the "Last 30 Days" catalog
+
 # Env overrides, handy for quick local runs and for building one catalog at a time:
 #   CC_CATALOGS=cc-4k-upgraded python3 build_catalog.py
 #   CC_SORTS=popularity CC_GENRES=All,Horror CC_DELAY=0.5 python3 build_catalog.py
@@ -83,6 +95,7 @@ if os.environ.get("CC_GENRES"):
     GENRES = os.environ["CC_GENRES"].split(",")
 REQUEST_DELAY = float(os.environ.get("CC_DELAY", REQUEST_DELAY))
 MIN_TITLES = int(os.environ.get("CC_MIN_TITLES", MIN_TITLES))
+UPGRADED_MIN = int(os.environ.get("CC_MIN_UPGRADED", UPGRADED_MIN))
 
 
 def fetch(genre, sort, attempts=5):
@@ -165,11 +178,141 @@ def to_meta(item):
     # the leanest possible catalog.
     if item.get("releaseDate"):
         meta["releaseInfo"] = item["releaseDate"][:4]
-    if item.get("genre"):
-        meta["genres"] = [item["genre"]]
+    # Deals.php calls it `genre`; OfferList.php calls it `primaryGenreName`.
+    genre = item.get("genre") or item.get("primaryGenreName")
+    if genre:
+        meta["genres"] = [genre]
     if item.get("description"):
         meta["description"] = item["description"]
     return meta
+
+
+def fetch_upgraded_page(offset, attempts=5):
+    """One OfferList page of the 4K-upgrades list, with backoff on 429/5xx/network errors."""
+    params = urllib.parse.urlencode({
+        "store": "itunes",
+        "country": "us",
+        "itemType": "buymovies",
+        "listType": "4KUpgraded",
+        "sort": "turned4K",
+        "quality": "4k",
+        "genreIds": 0,
+        "priceRange": "all",
+        "imdbRange": 0,
+        "rottenRange": 0,
+        "releaseYear": f"1900-{datetime.now(timezone.utc).year}",
+        "offset": offset,
+        "limit": PAGE_SIZE,
+    })
+    req = urllib.request.Request(
+        f"{OFFERLIST}?{params}",
+        headers={"User-Agent": "nuvio-4k-sale-addon/1.0"},
+    )
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                payload = json.load(r)
+            if payload.get("status") != "success":
+                raise RuntimeError(payload.get("message") or f"status={payload.get('status')}")
+            results = payload.get("results")
+            return (results.get("buymovies") if isinstance(results, dict) else results) or []
+        except urllib.error.HTTPError as exc:
+            retryable = exc.code == 429 or exc.code >= 500
+            if not retryable or attempt == attempts - 1:
+                raise
+        except urllib.error.URLError:
+            if attempt == attempts - 1:
+                raise
+        time.sleep(REQUEST_DELAY * (2 ** attempt))
+    return []
+
+
+def collect_upgraded():
+    """Page the whole 4KUpgraded list. Returns rows newest-upgrade-first.
+
+    Raises RuntimeError (not SystemExit) on any problem so the caller can fall back:
+    a truncated list would silently drop the oldest years, so partial = failure.
+    """
+    rows, seen = [], set()
+    for page in range(MAX_PAGES):
+        items = fetch_upgraded_page(page * PAGE_SIZE)
+        if not items:
+            break
+        for item in items:
+            imdb = item.get("imdbId")
+            if not imdb or imdb in seen:   # bundles have no IMDb id; ties can repeat across pages
+                continue
+            seen.add(imdb)
+            rows.append(item)
+        if (page + 1) % 10 == 0:
+            print(f"  page {page + 1:3}  unique titles so far: {len(rows)}")
+        time.sleep(REQUEST_DELAY)
+    else:
+        raise RuntimeError(f"no end of list after {MAX_PAGES} pages")
+
+    if len(rows) < UPGRADED_MIN:
+        raise RuntimeError(f"only {len(rows)} titles (minimum {UPGRADED_MIN})")
+
+    # The API already returns newest-first; sorting on the timestamp makes that an
+    # invariant instead of an assumption. Python's sort is stable, so ties keep API order.
+    rows.sort(key=lambda m: m.get("turned4K") or "", reverse=True)
+    return rows
+
+
+def group_upgraded(rows):
+    """Split rows into {catalog_id: rows}: Last 30 Days plus one bucket per year."""
+    cutoff = (datetime.now(timezone.utc).date() - timedelta(days=RECENT_DAYS)).isoformat()
+    groups = {f"{UPGRADED_ID}-30d": []}
+    for row in rows:
+        stamp = row.get("turned4K") or ""
+        if not stamp[:4].isdigit():
+            continue                      # undated rows stay in the main catalog only
+        if stamp[:10] >= cutoff:
+            groups[f"{UPGRADED_ID}-30d"].append(row)
+        groups.setdefault(f"{UPGRADED_ID}-{stamp[:4]}", []).append(row)
+    return groups
+
+
+def build_upgraded_family():
+    """Rebuild 'Upgraded to 4K' plus its dated catalogs from the 4KUpgraded list."""
+    rows = collect_upgraded()
+    folder = OUT / "catalog" / "movie"
+
+    metas = [to_meta(r) for r in rows]
+    (folder / f"{UPGRADED_ID}.json").write_text(json.dumps({"metas": metas}, indent=2))
+    print(f"  -> {len(metas)} titles ({UPGRADED_ID})")
+
+    groups = group_upgraded(rows)
+    for cid, grows in groups.items():
+        (folder / f"{cid}.json").write_text(
+            json.dumps({"metas": [to_meta(r) for r in grows]}, indent=2))
+        print(f"  -> {len(grows):4} titles ({cid})")
+
+    # Drop year files that no longer have any titles, so the manifest can't list an empty year.
+    for path in folder.glob(f"{UPGRADED_ID}-[0-9][0-9][0-9][0-9].json"):
+        if path.stem not in groups:
+            path.unlink()
+            print(f"  (removed stale {path.name})")
+    return len(metas)
+
+
+def dated_catalog_specs():
+    """Manifest entries for the dated upgrade catalogs, discovered from what is on disk.
+
+    Reading disk (not the current run) keeps the manifest correct on partial runs
+    and when the fallback path leaves the dated files untouched.
+    """
+    folder = OUT / "catalog" / "movie"
+    specs = []
+    if (folder / f"{UPGRADED_ID}-30d.json").exists():
+        specs.append({"id": f"{UPGRADED_ID}-30d", "name": "Upgraded: Last 30 Days"})
+    years = sorted(
+        (int(p.stem.rsplit("-", 1)[1])
+         for p in folder.glob(f"{UPGRADED_ID}-[0-9][0-9][0-9][0-9].json")),
+        reverse=True,
+    )
+    specs += [{"id": f"{UPGRADED_ID}-{y}", "name": f"Upgraded in {y}"} for y in years]
+    return specs
 
 
 def main():
@@ -187,6 +330,19 @@ def main():
             continue
 
         print(f"\nBuilding '{spec['name']}' (iTunes US, 4K)...")
+
+        merge_existing = False
+        if spec["id"] == UPGRADED_ID:
+            try:
+                counts[spec["id"]] = build_upgraded_family()
+                continue
+            except Exception as exc:
+                # Fallback: the old Deals.php path, merged with yesterday's file so a bad
+                # day can never shrink the catalog. The dated catalogs are left as they are.
+                print(f"::warning::4KUpgraded list failed ({exc}); "
+                      "falling back to Deals.php and keeping the existing dated catalogs")
+                merge_existing = True
+
         items = collect(spec["sorts"])
 
         if spec["order"] == "price":
@@ -195,11 +351,22 @@ def main():
         # order == "api" keeps the upgrade-recency ordering the API returned.
 
         metas = [to_meta(i) for i in items]
+        if merge_existing and path.exists():
+            have = {m["id"] for m in metas}
+            metas += [m for m in json.loads(path.read_text())["metas"] if m["id"] not in have]
         counts[spec["id"]] = len(metas)
         path.write_text(json.dumps({"metas": metas}, indent=2))
         print(f"  -> {len(metas)} titles")
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    # Dated upgrade catalogs sit directly after "Upgraded to 4K" in the manifest.
+    dated = dated_catalog_specs()
+    catalogs = []
+    for s in CATALOGS:
+        catalogs.append({"type": "movie", "id": s["id"], "name": s["name"]})
+        if s["id"] == UPGRADED_ID:
+            catalogs += [{"type": "movie", "id": d["id"], "name": d["name"]} for d in dated]
 
     manifest = {
         "id": "com.dude.cheapcharts.4ksale",
@@ -215,9 +382,7 @@ def main():
         "resources": ["catalog"],
         "types": ["movie"],
         "idPrefixes": ["tt"],
-        "catalogs": [
-            {"type": "movie", "id": s["id"], "name": s["name"]} for s in CATALOGS
-        ],
+        "catalogs": catalogs,
         "behaviorHints": {"configurable": False},
     }
 
@@ -225,8 +390,11 @@ def main():
 
     print(f"\nWrote {OUT/'manifest.json'}")
     for spec in CATALOGS:
-        print(f"  {spec['name']:18} {counts[spec['id']]:4} titles"
+        print(f"  {spec['name']:24} {counts[spec['id']]:4} titles"
               f"  ({spec['id']}.json)")
+    for spec in dated:
+        n = len(json.loads((OUT / "catalog" / "movie" / f"{spec['id']}.json").read_text())["metas"])
+        print(f"  {spec['name']:24} {n:4} titles  ({spec['id']}.json)")
 
 
 if __name__ == "__main__":

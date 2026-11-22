@@ -1,13 +1,17 @@
 # iTunes 4K — a static Nuvio / Stremio catalog addon
 
-Serves **two** browsable catalogs from the Apple TV / iTunes US store, mirroring the two
-CheapCharts pages:
+Serves browsable catalogs from the Apple TV / iTunes US store, mirroring the CheapCharts
+pages:
 
 | Catalog | Catalog id | What it is |
 |---|---|---|
 | **Movies in 4K** | `cc-4k-movies` | 4K movies, most popular first |
-| **Upgraded to 4K** | `cc-4k-upgraded` | 4K movies in order of how recently they were upgraded |
+| **Upgraded to 4K** | `cc-4k-upgraded` | Every title CheapCharts lists as upgraded to 4K, most recent upgrade first |
+| **Upgraded: Last 30 Days** | `cc-4k-upgraded-30d` | Only the upgrades from the last 30 days |
+| **Upgraded in 2026**, **2025**, … | `cc-4k-upgraded-YYYY` | One catalog per year of upgrades (2018 to now), most recent first |
 | **Just Released** | `cc-4k-new` | 4K movies by release date, newest first |
+
+The per-year catalogs are created automatically, so a new year's catalog appears by itself.
 
 Each entry carries **title and artwork only** — poster, background and logo. No pricing.
 
@@ -23,6 +27,7 @@ No server, no API keys, no cost.
 - `docs/manifest.json` — the addon manifest you paste into Nuvio
 - `docs/catalog/movie/cc-4k-movies.json` — the 4K movies catalog
 - `docs/catalog/movie/cc-4k-upgraded.json` — the upgrades catalog
+- `docs/catalog/movie/cc-4k-upgraded-30d.json` and `cc-4k-upgraded-YYYY.json` — the dated upgrade catalogs
 - `build_catalog.py` — regenerates all of the above from the live API
 - `.github/workflows/update-catalog.yml` — daily rebuild at 06:00 UTC
 
@@ -125,16 +130,17 @@ files are both generated from that list. For example, a highly-rated-only catalo
 
 ## Known limits
 
-- **"Upgraded to 4K" is an ordering, not a dated feed.** `sort=turned4K` is a real sort
-  parameter (an invalid sort name returns nothing, this one returns a distinct ordering),
-  but the API never returns the `turned4K` *date* despite documenting it. So the catalog
-  is ordered by upgrade recency, and you can't see or filter on when each upgrade happened.
-- **Both catalogs are drawn from the deals endpoint**, so they lean towards titles that
-  have had a recent price change. This isn't a complete inventory of every 4K title.
-- **The API caps every response at 50 items with no paging.** The script works around this
-  by querying each genre separately and merging, which gets both catalogs into the several
-  hundreds. Some large genres are still truncated. A side effect for *Upgraded to 4K*:
-  the first ~50 are in true global upgrade order, and the rest are appended genre by genre.
+- **The Upgraded catalogs rely on an undocumented CheapCharts endpoint** (`OfferList.php`,
+  the backend behind the CheapCharts site). It gives the full upgrade list with real
+  dates, which is what makes the Last 30 Days and per-year catalogs possible. If it ever
+  breaks, the daily run falls back to the documented API, keeps the existing catalogs and
+  prints a warning; the upgrade catalogs then stop updating until it's fixed.
+- **Upgrades before mid-2018 aren't listed** by CheapCharts, so they appear in no dated catalog.
+- **Movies in 4K and Just Released are drawn from the deals endpoint**, so they lean
+  towards titles currently on sale. That isn't a complete inventory of every 4K title.
+- **The deals endpoint caps every response at 50 items with no paging.** The script works
+  around this by querying each genre separately and merging, which gets those two catalogs
+  into the several hundreds. Some large genres are still truncated.
 - **Bundles and multi-film collections are dropped** — they carry no IMDb id, and Stremio
   metas require one.
 - **The endpoint rate-limits** despite its docs claiming otherwise. `REQUEST_DELAY` is set
